@@ -1,4 +1,4 @@
-# 스키장ter
+# 바이오파이썬
 
 [About](doc/intro.md)
 
