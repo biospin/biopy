@@ -11,7 +11,7 @@
   * [Biopython I & Biopython II](doc/part1/d05.md)
   * [Data  management and relational databases](doc/part1/d06.md)
   * [Data analysis with Python](doc/part1/d07.md)
-  * [버전관리](doc/part1/d07.md)
+  * [버전관리](doc/part1/d08.md)
 
 [part2]()
 
