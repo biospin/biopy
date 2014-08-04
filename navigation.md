@@ -15,6 +15,7 @@
   * [Data analysis with Python](doc/part1/d07.md)
   * [버전관리](doc/part1/d08.md)
 
+
 [part2]()
 
   * [교재](doc/part2/intro.md)
@@ -26,6 +27,7 @@
   * [ch13~15](doc/part2/d05.md)
   * [ch16~18](doc/part2/d06.md)
   * [ch19~21](doc/part2/d07.md)
+
 
 [part3]()
 
