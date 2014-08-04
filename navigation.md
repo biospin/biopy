@@ -20,7 +20,7 @@
 [part2]()
 
   * #소개
-  * [교재](doc/part2/intro.md)
+  * [교재&일정](doc/part2/intro.md)
   ----------
   * [ch1~3](doc/part2/d01.md)
   * [ch4~6](doc/part2/d02.md)
@@ -34,7 +34,7 @@
 [part3]()
 
   * #소개
-  * [교재](doc/part3/intro.md)
+  * [교재&일정](doc/part3/intro.md)
   ----------
   * [ch1~3](doc/part3/d01.md)
 
