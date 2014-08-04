@@ -4,6 +4,9 @@
 
 [part1]()
 
+  * #소개
+  * [교재](doc/part1/intro.md)
+  ----------
   * [유닉스(리눅스) 기본 명령어 & 파이썬 환경설정](doc/part1/d01.md)
   * [IPython notebook](doc/part1/d02.md)
   * [Python Basics I & II](doc/part1/d03.md)
@@ -16,6 +19,9 @@
 
 [part2]()
 
+  * #소개
+  * [교재](doc/part2/intro.md)
+  ----------
   * [ch1~3](doc/part2/d01.md)
   * [ch4~6](doc/part2/d02.md)
   * [ch7~9](doc/part2/d03.md)
@@ -27,7 +33,7 @@
 
 [part3]()
 
-  * #테크노트기획
+  * #소개
   * [교재](doc/part3/intro.md)
   ----------
   * [ch1~3](doc/part3/d01.md)
