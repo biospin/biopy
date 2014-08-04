@@ -27,6 +27,7 @@
 
 [part3]()
 
+  * #테크노트기획
   * [교재](doc/part3/intro.md)
   ----------
   * [ch1~3](doc/part3/d01.md)
