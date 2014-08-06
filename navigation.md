@@ -23,12 +23,12 @@
   * [교재&일정](doc/part2/intro.md)
   ----------
   * [ch1~4](doc/part2/d01.md)
-  * [ch5,6,19,Recipe7](doc/part2/d02.md)
+  * [ch5,6,19+](doc/part2/d02.md)
   * [ch7~9](doc/part2/d03.md)
   * [ch10~12,15](doc/part2/d04.md)
-  * [ch14,Recipe4,5,9~11](doc/part2/d05.md)
-  * [ch16,18,Recipe8,18,19](doc/part2/d06.md)
-  * [ch17,20~21,Recipe12~16](doc/part2/d07.md)
+  * [ch14+](doc/part2/d05.md)
+  * [ch16,18+](doc/part2/d06.md)
+  * [ch17,20~21+](doc/part2/d07.md)
   * [보강B](doc/part2/d08.md)
 
 
