@@ -8,7 +8,7 @@
 |:---	    |:---	   |:---	                                                    |:---	|:---                              |:---  |
 |PartII-1    |8/5/2014  |[ch1-4](d01.md) 	    | [정우철](https://www.facebook.com/juczest) |   [ipython notebook server setting on biolinux8 virtual machine ](d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine)                             |   박세진      |
 |PartII-2    |8/12/2014  |[ch5,6,19](d02.md)  | [배준석](https://www.facebook.com/PeterJSBae), [장슬지](https://www.facebook.com/seulji.chang.5)  |  |  |
-|PartII-3    |8/19/2014  |ch7-9  |엄혜현  |  |  |
+|PartII-3    |8/19/2014  |[ch7-9](d03.md)  |엄혜현  |  |  |
 |PartII-4    |8/26/2014  |ch10-15  |  |  |  |
 |PartII-5    |9/2/2014  |ch14  |  |  |  |
 |PartII-6    |9/16/2014  |ch16,18  |최창순  |  |  |
