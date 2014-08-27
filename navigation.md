@@ -25,11 +25,12 @@
   * [ch1~4](doc/part2/d01.md)
   * [ch5,6,19+](doc/part2/d02.md)
   * [ch7~9](doc/part2/d03.md)
-  * [ch10~12,15](doc/part2/d04.md)
-  * [ch14+](doc/part2/d05.md)
-  * [ch16,18+](doc/part2/d06.md)
+  * [ch10~11](doc/part2/d04.md)
+  * [ch12,15,16,18](doc/part2/d05.md)
+  * [ch14,(특강)snakemake+joblib](doc/part2/d06.md)
   * [ch17,20~21+](doc/part2/d07.md)
-  * [보강B](doc/part2/d08.md)
+  * [(특강)Pydoop+PySpark](doc/part2/d08.md)
+  * [ch13,(특강)R기초](doc/part2/d09.md)
 
 
 [part3]()
