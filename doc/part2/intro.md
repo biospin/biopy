@@ -6,14 +6,17 @@
 
 |회차	    |날짜	   |주제	                                                    |발표자	|주제 (15min small talk)           | 발표자  |
 |:---	    |:---	   |:---	                                                    |:---	|:---                              |:---  |
-|PartII-1    |8/5/2014  |[ch1-4](d01.md) 	    | [정우철](https://www.facebook.com/juczest) |   [ipython notebook server setting on biolinux8 virtual machine ](d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine)                             |   박세진      |
+|PartII-1    |8/5/2014  |[ch1-4](d01.md) 	    | [정우철](https://www.facebook.com/juczest) |   [ipython notebook server setting on biolinux8 virtual machine ](d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine) |   박세진    |
 |PartII-2    |8/12/2014  |[ch5,6,19](d02.md)  | [배준석](https://www.facebook.com/PeterJSBae), [장슬지](https://www.facebook.com/seulji.chang.5)  |  |  |
 |PartII-3    |8/19/2014  |[ch7-9](d03.md)  |엄혜현  |  |  |
 |PartII-4    |8/26/2014  |[ch10-11](d04.md)  | [조근영](https://www.facebook.com/re4lfl0w),  [정우성](https://www.facebook.com/woosung.chung.52)  |  |  |
-|PartII-5    |9/2/2014  |ch16,18  | 최창순 |  |  |
-|PartII-6    |9/16/2014  |[NGS강좌,ch14,[특강]snakemake+joblib  | 이우제, 김다찬, 박태건 |  |  |
+|PartII-5    |9/2/2014  |ch16,18  | [최창순](https://www.facebook.com/changsoon.choi.3) |  |  |
+|PartII-6    |9/16/2014  |[NGS강좌,ch14,[특강]snakemake+joblib  | 이우제, 김다찬, [박태건](https://www.facebook.com/xarus01) |  |  |
 |PartII-7    |9/23/2014  |ch17,20,21  | 미정  |  |  |
-|PartII-8    |9/30/2014  |Epigenetics강좌, [특강]Pydoop+PySpark  | 최창순, 김민 |  |  |
+|PartII-8    |9/30/2014  |Epigenetics강좌, [특강]Pydoop+PySpark  | [최창순](https://www.facebook.com/changsoon.choi.3), [김민경](https://www.facebook.com/mk.kim.904) |  |  |
 |PartII-9    |10/7/2014  |ch13, [특강]R기초  | [김무성](https://www.facebook.com/moodern) |  |  |
+|PartII-10   |10/14/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (1) | 미정 |  |  |
+|PartII-11   |10/21/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2) | 미정 |  |  |
+|PartII-12   |10/28/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3) | 미정 |  |  |
 
 
