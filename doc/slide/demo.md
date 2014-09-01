@@ -8,8 +8,10 @@ class: title, center, middle, inverse
 # <span class="sky">호</span>호호 <span class="sky">하</span> 하하 <span class="sky">크</span>크크
 .footnote[
 - [Rigel](http://twitter.com/kozazz) (곽두환)
-- [kozazz](https://github.com/kozazz) on GitHub]
+- [kozazz](https://github.com/kozazz) on GitHub
 - 출처 : http://www.lucypark.kr/slides/2014-pyconkr
+]
+
 
 ---
 .left-column[
@@ -33,47 +35,6 @@ NLTK 덕에 파이썬으로 자연어처리를 하는 것이 편리해졌다.<br
 - Slides code: https://gist.github.com/e9t/546faa368424e04e25c7
 ]
 ]
-
----
-.left-column[
-<img src="me.jpg" width="100%">
-## **박은정**
-(a.k.a. lucypark, echojuliett, e9t)
-]
-
-.right-column[
-<!--(데이터 분석하는 개발자 아닙니다.)-->
-### 개발하는 **데이터 분석가**.
-
-- 서울대학교 데이터마이닝 센터 박사과정
-- "[대한민국 정치의 모든 것](http://pokr.kr)" 만드는 팀포퐁 멤버
-- Just another yak shaver...
-
-<br><br><br>
-
-.small.gray[
-<pre>
-11:49 <@sanxiyn> 또다시 yak shaving의 신비한 세계
-11:51 <@sanxiyn> yak shaving이 뭔지 다 아시죠?
-11:51 <디토군> 방금 찾아보고 왔음
-11:51 <@mana> (조용히 설명을 기대중)
-11:51 <@sanxiyn> 나무를 베려고 하는데
-11:52 <@sanxiyn> 도끼질을 하다가
-11:52 <@sanxiyn> 도끼가 더 잘 들면 나무를 쉽게 벨텐데 해서
-11:52 <@sanxiyn> 도끼 날을 세우다가
-11:52 <@sanxiyn> 도끼 가는 돌이 더 좋으면 도끼 날을 더 빨리 세울텐데 해서
-11:52 <@sanxiyn> 좋은 숫돌이 있는 곳을 수소문해 보니
-11:52 <@mana> …
-11:52 <&홍민희> 그거 전형적인 제 행동이네요
-11:52 <@sanxiyn> 저 멀이 어디에 세계 최고의 숫돌이 난다고
-11:52 <@sanxiyn> 거기까지 야크를 타고 가려다가
-11:52 <@mana> 항상하던 짓이라서 타이핑을 할 수 없었습니다
-11:52 <@sanxiyn> 야크 털을 깎아서…
-11:52 <@sanxiyn> etc.
-</pre>
-]]
-
-
 
 ---
 class: center
@@ -445,5 +406,3 @@ class: center, middle, inverse, full-text
 
 감사합니다 :D
 
-http://lucypark.kr<br>
-[@echojuliett](http://twitter.com/echojuliett)
