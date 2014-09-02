@@ -14,9 +14,9 @@
 |PartII-6    |9/16/2014  |[NGS강좌,ch14,[특강]snakemake+joblib  | 이우제, 김다찬, [박태건](https://www.facebook.com/xarus01) |  |  |
 |PartII-7    |9/23/2014  |ch17,20,21  | [조강익](https://www.facebook.com/kangik), [조정희](https://www.facebook.com/jeonghee.jo.37)  |  |  |
 |PartII-8    |9/30/2014  |Epigenetics강좌, [특강]Pydoop+PySpark  | [최창순](https://www.facebook.com/changsoon.choi.3), [김민경](https://www.facebook.com/mk.kim.904) |  |  |
-|PartII-9    |10/7/2014  |ch13, [특강]R기초  | [김무성](https://www.facebook.com/moodern) |  |  |
-|PartII-10   |10/14/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (1) | 미정 |  |  |
-|PartII-11   |10/21/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2) | 미정 |  |  |
-|PartII-12   |10/28/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3) | 미정 |  |  |
+|PartII-9    |10/7/2014  |ch13, [특강]R기초  | [박세진](https://www.facebook.com/sejin.park.794) |  |  |
+|PartII-10   |10/14/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (1) | [김무성](https://www.facebook.com/moodern) |  |  |
+|PartII-11   |10/21/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2) | [김무성](https://www.facebook.com/moodern) |  |  |
+|PartII-12   |10/28/2014  | 파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3) | [김무성](https://www.facebook.com/moodern) |  |  |
 
 
