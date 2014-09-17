@@ -43,5 +43,6 @@
   ----------
   * [ch1~3](doc/part3/d01.md)
 
+[후기](doc/afterSchool.md)
 
 [gimmick:theme (inverse: false)](cerulean)
