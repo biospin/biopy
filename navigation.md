@@ -22,7 +22,11 @@
   * #소개
   * [교재&일정](doc/part2/intro.md)
   ----------
-  * [ch1~4](doc/part2/d01.md)
+  * [ch1. The Python Shell](doc/part2/d01.md#1._Managing_Your_Biological_Data_with_Python)
+  * [ch2. Your First Python Program](doc/part2/d01.md#1._Managing_Your_Biological_Data_with_Python)
+  * [ch3. Analyzing a Data Column](doc/part2/d01.md#1._Managing_Your_Biological_Data_with_Python)
+  * [ch4. Parsing Data Records](doc/part2/d01.md#1._Managing_Your_Biological_Data_with_Python)
+  * [Ipython notebook server setting on Biolinux 8 virtual machine](doc/part2/d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine)
   * [ch5,6,19+](doc/part2/d02.md)
   * [ch7~9](doc/part2/d03.md)
   * [ch10~11](doc/part2/d04.md)
