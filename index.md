@@ -12,4 +12,4 @@
 - 매주 화요일 저녁. 7시 30분~9시 30분/10시
 - 장소 : 토즈 강남점/타워점
 
-[gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.com)
+[gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
