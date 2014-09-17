@@ -11,3 +11,5 @@
 - 2014년 6월 3일 - 2015년 1월 27일 (변경 가능)
 - 매주 화요일 저녁. 7시 30분~9시 30분/10시
 - 장소 : 토즈 강남점/타워점
+
+[gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.com)
