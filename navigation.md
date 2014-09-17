@@ -21,7 +21,7 @@
 
   * #소개
   * [교재&일정](doc/part2/intro.md)
-  * [목차](toc.md)
+  * [목차](doc/part2/toc.md)
   ----------
   * [ch1~4](doc/part2/d01.md)
   * [ch5,6,19+](doc/part2/d02.md)
