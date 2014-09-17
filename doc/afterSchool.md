@@ -55,3 +55,7 @@ ch2. Your First Python Program - Story: How to Calculate the Frequency of Amino 
 ch3. Analyzing a Data Column - Story: Dendritic Lengths
 이런 식으로요. 그래서 파이썬 잘 모르셔도 파트2부터 참석하시면 됩니다. 생물쪽을 잘 모르시면, 이번 파트의 주요 발표는 생물배경이신 분들이 맡아주시고, 해당 스토리에 대한 배경지식으로 보충설명하는 시간을 가지기로 했습니다. 흥미가 있지만, 내가 과연 같이 공부해도 될까? 라고 꺼림이 있으신 분들이라면 - 걱정하지 마시고 참여해주세요. 다행히 파이썬 코리아 그룹에서 지원을 해주셔서 인원, 비용 걱정없이 하고 있습니다. 늘 예약 및 지원 해주시는 배권한 님께 감사드립니다.
 by 김무성_140806
+
+## PART I - 마지막
+
+## PART I - 1회차
