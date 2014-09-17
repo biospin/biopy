@@ -19,4 +19,23 @@
 |PartII-11   |10/21/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2)](d11.md) | [김무성](https://www.facebook.com/moodern) |  |  |
 |PartII-12   |10/28/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3)](d12.md) | [김무성](https://www.facebook.com/moodern) |  |  |
 
-
+### 목차
+  * [Ipython notebook server setting on Biolinux 8 virtual machine](/doc/part2/d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine)
+  * [ch1. The Python Shell](d01.md#1._Managing_Your_Biological_Data_with_Python)
+  * [ch2. Your First Python Program](d01.md#1._Managing_Your_Biological_Data_with_Python)
+  * [ch3. Analyzing a Data Column](d01.md#1._Managing_Your_Biological_Data_with_Python)
+  * [ch4. Parsing Data Records](d01.md#1._Managing_Your_Biological_Data_with_Python)
+  * [ch5. Searching Data](d02.md)
+  * [ch6. Filtering Data](d02.md)
+  * [ch7. Managing Tabular Data](d03.md)
+  * [ch8. Sorting Data](d03.md)
+  * [ch9. Pattern Matching and Text Mining](d03.md)
+  * [ch10. Divide a Program into Functions](d04.md)
+  * [ch11. Managing Complexity with Classes](d04.md)
+  * [ch12. Debugging](d05.md)
+  * [ch15. Writing Good Programs](d05.md)
+  * [ch16. Creating Scientific Diagrams](d05.md)
+  * [ch18. Manipulating Images](d05.md)
+  * [ch19. Working with Sequence Data](d02.md)
+  * [Recipe 7](d02.md)
+  * [Recipe 8](d05.md)
