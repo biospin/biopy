@@ -17,11 +17,3 @@
   * [ch19. Working with Sequence Data](d02.md)
   * [Recipe 7](d02.md)
   * [Recipe 8](d05.md)
-  ----------
-  * [ch14,(특강)snakemake+joblib](d06.md)
-  * [ch17,20~21+](d07.md)
-  * [(특강)Pydoop+PySpark](d08.md)
-  * [ch13,(특강)R기초](d09.md)
-  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (1)](d10.md)
-  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (2)](d11.md)
-  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (3)](d12.md)
