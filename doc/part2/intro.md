@@ -1,10 +1,8 @@
 
 ## 파트2 교재
-------
 [Managing Your Biological Data with Python](http://www.crcpress.com/product/isbn/9781439880937)
 
 ## 일정
-------
 |회차	    |날짜	   |주제	                                                    |발표자	|주제 (15min small talk)           | 발표자  |
 |:---	    |:---	   |:---	                                                    |:---	|:---                              |:---  |
 |PartII-1    |8/5/2014  |[ch1-4](d01.md) 	    | [정우철](https://www.facebook.com/juczest) |   [ipython notebook server setting on biolinux8 virtual machine ](d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine) | [박세진](https://www.facebook.com/sejin.park.794) |
@@ -21,7 +19,6 @@
 |PartII-12   |10/28/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3)](d12.md) | [김무성](https://www.facebook.com/moodern) |  |  |
 
 ## 목차
-------
   * [Ipython notebook server setting on Biolinux 8 virtual machine](/doc/part2/d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine)
   * [ch1. The Python Shell](d01.md#1._Managing_Your_Biological_Data_with_Python)
   * [ch2. Your First Python Program](d01.md#1._Managing_Your_Biological_Data_with_Python)

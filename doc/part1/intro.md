@@ -1,8 +1,8 @@
-### 파트1 교재
+## 파트1 교재
 - [Practical Computing for Biologists](http://people.duke.edu/~ccc14/pcfb/_downloads/PracticalComputingforBiologistsCFARWorkshop.pdf)
 - [파이썬 라이브러리를 활용한 데이터 분석](http://www.hanbit.co.kr/book/look.html?isbn=978-89-6848-047-8)
 
-### 일정
+## 일정
 
 |회차	    |날짜	   |주제	                                                        |발표자	|주제 (15min small talk)           | 발표자  |
 |:---	    |:---	   |:---	                                                        |:---	|:---                              |:---  |
