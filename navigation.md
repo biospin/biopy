@@ -46,3 +46,4 @@
 [후기](doc/afterSchool.md)
 
 [gimmick:theme (inverse: false)](cerulean)
+[gimmick:ForkMeOnGitHub](https://github.com/biopy/biopy.github.io)
