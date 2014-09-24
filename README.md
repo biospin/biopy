@@ -1,5 +1,3 @@
-﻿biopy.github.io
-===============
+﻿바이오 파이썬 master 입니다.
 
-바이오 파이썬입니다.
-http://biopy.github.io/
+http://biospin.github.io/biopy
