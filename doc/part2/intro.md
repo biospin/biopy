@@ -37,6 +37,7 @@
   * [ch17. Creating Molecule Images with PyMOL](d07.md)
   * [ch18. Manipulating Images](d05.md)
   * [ch19. Working with Sequence Data](d02.md)
+  * [ch20. Retrieving Data from Web Resources](d07.md)
   * [ch21. Working with 3D Structure Data](d07.md)
   * [Recipe 7](d02.md)
   * [Recipe 8](d05.md)
