@@ -9,7 +9,7 @@
 
 ### 최신글
 - [[특강]Pydoop+PySpark](doc/part2/d08.md)
-- [PART_II_-_8회차 후기](doc/afterSchool.md)
+- [PART II - 8회차 후기](doc/afterSchool.md)
 
 ### 링크
 - http://biopython.net
