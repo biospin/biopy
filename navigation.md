@@ -35,7 +35,6 @@
   * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (2)](doc/part2/d11.md)
   * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (3)](doc/part2/d12.md)
 
-
 [part3]()
 
   * #소개
@@ -43,7 +42,7 @@
   ----------
   * [ch1~3](doc/part3/d01.md)
 
-[후기](doc/afterSchool.md)
+[스터디후기](doc/afterSchool.md)
 
 [gimmick:theme (inverse: false)](cerulean)
 [gimmick:ForkMeOnGitHub](https://github.com/biopy/biopy.github.io)
