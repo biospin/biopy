@@ -8,8 +8,8 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [[특강]Pydoop+PySpark](d08.md)
-- [PART_II_-_8회차 후기](http://biopy.github.io/#!doc/afterSchool.md#PART_II_-_8회차)
+- [[특강]Pydoop+PySpark](doc/part2/d08.md)
+- [PART_II_-_8회차 후기](doc/afterSchool.md)
 
 ### 링크
 - http://biopython.net
