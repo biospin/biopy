@@ -1,7 +1,5 @@
 # 바이오파이썬
 
-[About](doc/intro.md)
-
 [part1]()
 
   * #소개
