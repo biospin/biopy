@@ -18,6 +18,6 @@
 - [ipython notebooks](http://nbviewer.ipython.org/github/biopy/biopy.github.io/tree/master/notebook/)
 - [biospin tube](http://www.youtube.com/channel/UClCglW1qWWYSaV7ESozld1w)
 - [cloud server](http://cloud.biopython.net/)
-- [google analytics](http://goo.gl/dyNTkl) [[권한신청]](doc/analytics_admin.md)
+- [google analytics](doc/analytics.md)
 
 [<img src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png">](https://play.google.com/store/apps/details?id=com.dubu.biopyApp)
