@@ -1,6 +1,8 @@
 
 ### google analytics 141005
 ![google analytics](/doc/img/analytics141005.png)
+- 화요일 스터디 모임날짜에 전후로 사용자 급증.
+- 유효사용자는 40명 내외
 
 ### [바이오파이썬 google analytics](http://goo.gl/dyNTkl)
 - http://goo.gl/dyNTkl
