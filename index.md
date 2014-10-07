@@ -8,7 +8,7 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [R, Genetics](doc/part2/d09.md)
+- [[특강]R기초, Small Talk: Genetics](doc/part2/d09.md)
 
 ### 링크
 - http://biopython.net
