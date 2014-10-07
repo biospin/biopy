@@ -1,4 +1,4 @@
-![대문](doc/img/d0930.jpg)
+![대문](doc/img/d1007.jpg)
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
