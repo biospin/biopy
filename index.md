@@ -8,6 +8,7 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
+- [PART II - 9회차 후기](doc/afterSchool.md)
 - [[특강]R기초, Small Talk: Genetics](doc/part2/d09.md)
 
 ### 링크
