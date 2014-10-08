@@ -213,4 +213,7 @@ p + theme(axis.title=element_text(face="bold.italic",
 
 ```
 
-
+## reference
+- http://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf
+- A (very) short introduction to R 
+- Paul Torfs & Claudia Brauer
