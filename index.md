@@ -8,8 +8,8 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [[특강]R기초, Small Talk: Genetics](doc/part2/d09.md)
-- [PART II - 9회차 후기](doc/afterSchool.md)
+- [장고기반 REST API 만들기 실습 (1)](doc/part2/d10.md)
+- [방문자 지표 - 141014](doc/analytics.md)
 
 ### 링크
 - http://biopython.net
