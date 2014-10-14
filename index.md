@@ -8,8 +8,8 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [장고기반 REST API 만들기 실습 (1)](doc/part2/d10.md)
-- [방문자 지표 - 141014](doc/analytics.md)
+- [장고기반 REST API 만들기 실습 (1) - 2014.10.14](doc/part2/d10.md)
+- [방문자 지표 - 2014.10.14](doc/analytics.md)
 
 ### 링크
 - http://biopython.net
