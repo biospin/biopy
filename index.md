@@ -1,4 +1,4 @@
-![대문](doc/img/d1007.jpg)
+![대문](doc/img/d141014.jpg)
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
@@ -8,8 +8,8 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [PART II - 9회차 후기](doc/afterSchool.md)
 - [[특강]R기초, Small Talk: Genetics](doc/part2/d09.md)
+- [PART II - 9회차 후기](doc/afterSchool.md)
 
 ### 링크
 - http://biopython.net
