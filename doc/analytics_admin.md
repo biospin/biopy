@@ -9,3 +9,7 @@
 |---- | ---- |
 |doohwan.kwak@gmail.com | DOO-HWAN, KWAK|
 | kakyung.kim@gmail.com | Ka-Kyung Kim  |
+|jaru419@gmail.com |  |
+|jayu108@gmail.com  |  |
+|neurochoi84@gmail.com |  |
+|sezinie@gmail.com |  |
