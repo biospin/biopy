@@ -9,6 +9,7 @@
 
 ### 최신글
 - [장고기반 REST API 만들기 실습 (1) - 2014.10.14](doc/part2/d10.md)
+- [후기 - 2014.10.15](doc/afterSchool.md)
 - [방문자 지표 - 2014.10.14](doc/analytics.md)
 
 ### 링크
