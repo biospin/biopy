@@ -17,6 +17,7 @@
 |PartII-10   |10/14/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (1)](d10.md) | [김무성](https://www.facebook.com/moodern) |  |  |
 |PartII-11   |10/21/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2)](d11.md) | [김무성](https://www.facebook.com/moodern) |  |  |
 |PartII-12   |10/28/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3)](d12.md) | [김무성](https://www.facebook.com/moodern) |  |  |
+|보강   |10/29/2014  | [[아두베리스핀] 라즈베리파이 뽐뿌질 (d13.md)| [곽두환](https://www.facebook.com/kozazz) |  |  |
 
 ## 목차
   * [Ipython notebook server setting on Biolinux 8 virtual machine](/doc/part2/d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine)
