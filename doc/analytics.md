@@ -1,6 +1,6 @@
 
-### google analytics 141014
-- ![google analytics](/doc/img/analytics141014.png)
+### google analytics 141021
+- ![google analytics](/doc/img/analytics141021.png)
 
 - 화요일 스터디 모임날짜에 전후로 사용자 급증.
 - 유효사용자는 40명 내외
