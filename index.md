@@ -9,8 +9,9 @@
 
 ### 최신글
 - [장고기반 REST API 만들기 실습 (2) - 2014.10.21](doc/part2/d11.md)
-- [후기 - 2014.10.15](doc/afterSchool.md)
 - [방문자 지표 - 2014.10.21](doc/analytics.md)
+- [후기 - 2014.10.15](doc/afterSchool.md)
+
 
 ### 링크
 - http://biopython.net
