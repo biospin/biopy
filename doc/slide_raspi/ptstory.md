@@ -1,5 +1,7 @@
 
 
+동영상 리스트로 만들기.. - 쉬는 시간에도 플레이?
+
 ## 라즈베리파이로 무엇을 만들 수 있는가
 1. 라즈베리파이로 PC만들기!
 (준비과정)http://youtu.be/87IErsFekPY
@@ -46,9 +48,9 @@ sudo apt-get install python-rpi.gpio
 sudo python
 >>>import RPi.GPIO as GPIO
 >>>GPIO.setmode(GPIO.BCM)
->>>GPIO.setup(25, GPIO.OUT)
->>>GPIO.setup(25, GPIO.HIGH)
->>>GPIO.setup(25, GPIO.LOW)
+>>>GPIO.setup(17, GPIO.OUT)
+>>>GPIO.setup(17, GPIO.HIGH)
+>>>GPIO.setup(17, GPIO.LOW)
 
 ========================================
 실습을 짧게.. 전구에 불켜기
@@ -108,10 +110,9 @@ http://www.youtube.com/watch?v=staapsj3eRQ
 삽집기
 태워 먹은 내 lcd
 ------------
-
 장벽차트
+![장벽](/doc/img/wall.jpg)
 ----------
-
 여러분의 진입 장벽은 설정, 설치, 조립  입니다.
 ----------
 시작이 반이다.
@@ -124,7 +125,7 @@ http://www.youtube.com/watch?v=staapsj3eRQ
 계속 나올 이야기지만. 좋은 세상입니다.
 --------
 허나
-임계치. 진입 장벽. 못 하는 이유가 뭘 threthol 에너지.
+임계치. 진입 장벽. 못 하는 이유가 뭘 Threshold Energy 에너지.
 장벽. 뭘까요?? 설치 설정. 점퍼선 연결, 남땜들이 여러분을 막고 있습니다.
 의지? 하나 만들고 나면 그대로 방치될 경우가 많다.
 비슷한 사람들끼리 모여서 시선한 기운을 받으시기 바랍니다.
@@ -292,8 +293,11 @@ r.channelt(라디오채널)
 여분점퍼
 전원.
 
+### 배선그리기
+http://fritzing.org/download/
+
 ==============
-소개
+소개 공모전 사이트
 =============
 
 공모전
