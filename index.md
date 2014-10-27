@@ -8,9 +8,10 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
+- [라즈베리파이 뽐뿌질 - 2014.10.25](doc/part2/d13.md)
 - [장고기반 REST API 만들기 실습 (2) - 2014.10.21](doc/part2/d11.md)
 - [방문자 지표 - 2014.10.21](doc/analytics.md)
-- [후기 - 2014.10.15](doc/afterSchool.md)
+- [후기 - 2014.10.22](doc/afterSchool.md)
 
 
 ### 링크
