@@ -13,7 +13,7 @@ class: title, center, middle, inverse
 class: middle, inverse, full-text
 
 문서지기, 지표방어
-![](../img/gp.png)
+![](img/gp.png)
 
 ---
 class: middle, inverse, full-text
@@ -26,7 +26,7 @@ class: middle, inverse, full-text
 
 오늘의 주인공
 RASPBERRY PI B+
-![](../img/Raspberry_Pi_B+_top.jpg)
+![](img/Raspberry_Pi_B+_top.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ class: middle, inverse, full-text
 
 class: middle, inverse, full-text
 
-![](../img/burn.jpg)
+![](img/burn.jpg)
 
 ---
 
