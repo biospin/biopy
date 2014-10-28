@@ -164,7 +164,7 @@ class: middle, middle, inverse, full-text
 설문
 https://dubu.typeform.com/to/LXbQui
 
---
+---
 
 class: middle, inverse, full-text
 
