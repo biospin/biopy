@@ -34,27 +34,24 @@ class: middle, inverse, full-text
 
 이런것들을 합니다.
 
-1. 라즈베리파이로 PC만들기!
-(준비과정)http://youtu.be/87IErsFekPY
-(OS설치)http://youtu.be/h9vm1GH5_Gk
-
-2. 라즈베리파이로 만든 휴대폰, PiPhone!
+- 라즈베리파이로 만든 휴대폰, PiPhone!
 http://youtu.be/8eaiNsFhtI8
 
-3. 라즈베리파이로 제어하는 로봇,R2D2와 PiBBOT!
+- 라즈베리파이로 제어하는 로봇,R2D2와 PiBBOT!
 http://youtu.be/znuUm5vbSpI
 http://youtu.be/D0ydpIZFtuM
 
-4. 로봇팔을 작동시키는 라즈베리파이와 엑스박스360 컨트롤러!
+---
+
+class: middle, inverse, full-text
+
+- 로봇팔을 작동시키는 라즈베리파이와 엑스박스360 컨트롤러!
 http://youtu.be/xvKGxHoBBII
 
-5. 라즈베리파이 카메라를 장착한 쿼드콥터(4개의 프로펠러를 사용하는 초미니 헬리콥터)!
+- 라즈베리파이 카메라를 장착한 쿼드콥터(4개의 프로펠러를 사용하는 초미니 헬리콥터)!
 http://youtu.be/-dReyGvzAQw
 
-6. 라즈베리파이로 만든 간이 기상관측소!
-http://youtu.be/U8aZwKCH6qs
-
-7. 휴대용게임기로 변신한 라즈베리파이!
+-  휴대용게임기로 변신한 라즈베리파이!
 http://youtu.be/6JuB0zOHGeg
 http://youtu.be/8CA8tWJW8rk
 
