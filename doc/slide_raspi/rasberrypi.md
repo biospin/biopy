@@ -239,6 +239,33 @@ class: center, middle, inverse, full-text
 .pull-right[-- 노래만 듣고 싶은이]
 
 ---
+
+class: center, middle, inverse, full-text
+
+```
+import 라디오모듈
+
+r.upVolume(1)
+r.upDownVolume(1)
+
+import 라디오모듈
+import lcd디스플레이
+
+data = request.url(방금그록라디오)
+최신노래정보 = data.parse.get최근꺼
+
+최신노래.제목
+최신노래.라디오채널
+최신노래.가수
+
+d.display(제목)
+d.display(채널)
+d.display(가수)
+
+r.channelt(라디오채널)
+```
+
+---
 class: center, middle, inverse, full-text
 
 ".gold[선곡이짱] 방송국 작가분들 선곡에 감사합니다.<br>
@@ -263,7 +290,7 @@ class: middle, inverse, full-text
 ---
 class: middle, middle, inverse, full-text
 
-# 선연결
+ 선연결
 - https://github.com/XavierBerger/pcd8544
 - ![](https://camo.githubusercontent.com/7e1fdf3d7a138e6bad58c84361114fbc2cea8ff5/68747470733a2f2f7261772e6769746875622e636f6d2f5861766965724265726765722f706364383534342f6d61737465722f646f632f50434438353434776972696e672e706e67)
 ---
@@ -313,4 +340,37 @@ https://play.google.com/store/search?q=%EC%91%A5%EA%B0%93%ED%82%A4%EC%9A%B0%EA%B
 
 ---
 
+class: middle, middle, inverse, full-text
+앞으로 만들꺼
+메이크페어
+해리포토 마법 지팡이
+음성 + 동장인식..
 
+---
+
+class: middle, middle, inverse, full-text
+라즈베리파이 공모전
+http://happysntcontest.kofst.or.kr/index.php
+
+공모전 응모자 중교육
+http://happysntcontest.kofst.or.kr/file/2014%ED%96%89%EB%B3%B5%ED%95%9C%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%9B%90%20%EA%B5%90%EC%9C%A1%20%EC%95%88%EB%82%B4_141014.pdf
+
+라즈베리파이교육
+서울 1.8(토)~9(일), 09~18시 전자부품연구원 케티파트너스 지하1층 교육장
+
+---
+
+class: middle, middle, inverse, full-text
+
+설문
+https://dubu.typeform.com/to/LXbQui
+
+--
+
+class: middle, inverse, full-text
+
+![](img/Raspberry_Pi_B+_top.jpg)
+
+감사합니다
+
+---
