@@ -156,13 +156,3 @@ class: middle, inverse, full-text
 + [케이블](http://www.devicemart.co.kr/1113721)
 
 ---
-class: middle, inverse, full-text
-
-재료 살 수 있는곳
-[[New버전] 라즈베리파이 Model B+ 단품](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005587400&catg_code=115185)
-[[New버전] 라즈베리파이 Model B+ Basic KIT](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005607887&catg_code=115185)
-icbanq  http://www.icbanq.com/shop/
-디바이스마트 http://www.devicemart.co.kr/
-공구카페  http://cafe.naver.com/mpucafe/4821
-
----
