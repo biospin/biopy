@@ -373,4 +373,3 @@ class: middle, inverse, full-text
 
 감사합니다
 
----
