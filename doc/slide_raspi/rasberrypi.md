@@ -116,24 +116,3 @@ class: middle, inverse, full-text
 
 진입 장벽은 설정, 설치, 조립  입니다.
 
----
-
-class: middle, inverse, full-text
-
-이제 만들어 봅시다
-
----
-
-class: middle, inverse, full-text
-
-마잍드스통 vs 아두이노 vs 라즈베리파이
-
----
-
-class: middle, inverse, full-text
-
-표준 입/출력 모니터 마우스, 키보드
-
-모터/센서온.습도/라디오모듈/스피커/디스플레이lcd/초음파/등등.
-
----
