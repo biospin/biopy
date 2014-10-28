@@ -86,16 +86,22 @@ class: middle, inverse, full-text
 
 왜 그 동안 못했을까?
 ---
+
+class: middle, inverse, full-text
+
+![](img/burn.jpg)
+
+---
 class: middle, inverse, full-text
 
 만들자 만들자의 진입장벽
-![](http://redslime.typepad.com/.a/6a00e551f28d3c88340120a4d22158970b-pi)
+![장벽](/doc/img/wall.jpg)
 
 ---
 
 class: middle, inverse, full-text
 
-![](img/burn.jpg)
+진입 장벽은 설정, 설치, 조립  입니다.
 
 ---
 
