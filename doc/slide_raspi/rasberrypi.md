@@ -137,10 +137,3 @@ class: middle, inverse, full-text
 모터/센서온.습도/라디오모듈/스피커/디스플레이lcd/초음파/등등.
 
 ---
-
-class: middle, inverse, full-text
-
-hello world ~
-
-led 전구에 불켜기
----
