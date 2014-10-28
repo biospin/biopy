@@ -90,6 +90,9 @@ http://www.youtube.com/watch?v=85kI6oBSXHY
 http://www.youtube.com/watch?v=adOcQVTGpGI
 http://www.youtube.com/watch?v=staapsj3eRQ
 
+이런걸 만듭니다 코크모
+http://cafe.naver.com/lolkor/3453320
+
 다 똑같다
 ----
 
