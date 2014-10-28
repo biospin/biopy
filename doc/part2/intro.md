@@ -16,7 +16,7 @@
 |PartII-9    |10/7/2014  |[ch13, [특강]R기초, Small Talk: Genetics](d09.md)  | [박세진](https://www.facebook.com/sejin.park.794), [김가경](https://www.facebook.com/irobii) |  |  |
 |PartII-10   |10/14/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (1)](d10.md) | [김무성](https://www.facebook.com/moodern) |  |  |
 |PartII-11   |10/21/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2)](d11.md) | [김무성](https://www.facebook.com/moodern) |  |  |
-|PartII-12   |10/28/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3)](d12.md) | [김무성](https://www.facebook.com/moodern) |  |  |
+|PartII-12   |10/28/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3), angularJS](d12.md) | [김무성](https://www.facebook.com/moodern) , [김현동](https://www.facebook.com/haydnhkim) |  |  |
 |보강   |10/29/2014  | [[아두베리스핀] 라즈베리파이 뽐뿌질](d13.md)| [곽두환](https://www.facebook.com/kozazz) |  |  |
 
 ## 목차
