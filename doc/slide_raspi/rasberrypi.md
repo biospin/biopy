@@ -145,12 +145,3 @@ hello world ~
 led 전구에 불켜기
 
 ---
-
-class: middle, inverse, full-text
-
-win32diskimager
-윈도우 프로그램이용
-img 파일을 sd 카드에 씌움
-라즈베리파이 부팅 붕~
-
----
