@@ -142,7 +142,7 @@ class: middle, inverse, full-text
 
 hello world ~
 
-led 전구에 붎켜기
+led 전구에 불켜기
 
 ---
 
