@@ -86,6 +86,22 @@ class: middle, inverse, full-text
 
 class: middle, inverse, full-text
 
+왜 하필 요즘?
+
+---
+class: middle, inverse, full-text
+
+유비쿼터스랑 다른가?
+
+---
+class: middle, inverse, full-text
+
+오픈! 하드웨어!
+
+---
+
+class: middle, inverse, full-text
+
 ![](img/burn.jpg)
 
 ---
@@ -99,6 +115,111 @@ class: middle, inverse, full-text
 class: middle, inverse, full-text
 
 진입 장벽은 설정, 설치, 조립  입니다.
+
+---
+
+class: middle, inverse, full-text
+
+이제 만들어 봅시다
+
+---
+
+class: middle, inverse, full-text
+
+마잍드스통 vs 아두이노 vs 라즈베리파이
+
+---
+
+class: middle, inverse, full-text
+
+표준 입/출력 모니터 마우스, 키보드
+
+모터/센서온.습도/라디오모듈/스피커/디스플레이lcd/초음파/등등.
+
+---
+
+class: middle, inverse, full-text
+
+hello world ~
+
+led 전구에 붎켜기
+
+---
+
+class: middle, inverse, full-text
+
+![재료](http://www.icbank.com/icbank_data/image/shop_product/2014/8AE4D167-FBF2-469D-8190-164240DFE2C0.jpg)
+
++ [빵판(브레드 보드)](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005535466)
++ led 전구
++ 저항
++ [케이블](http://www.devicemart.co.kr/1113721)
+
+---
+class: middle, inverse, full-text
+
+재료 살 수 있는곳
+[[New버전] 라즈베리파이 Model B+ 단품](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005587400&catg_code=115185)
+[[New버전] 라즈베리파이 Model B+ Basic KIT](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005607887&catg_code=115185)
+icbanq  http://www.icbanq.com/shop/
+디바이스마트 http://www.devicemart.co.kr/
+공구카페  http://cafe.naver.com/mpucafe/4821
+
+---
+class: middle, inverse, full-text
+
+라즈베리 os 다운로드
+os 다운로드. 종류 다양 raspbian 를 받자
+http://www.raspberrypi.org/downloads/
+raspbian zip download
+
+---
+
+class: middle, inverse, full-text
+
+win32diskimager
+윈도우 프로그램이용
+img 파일을 sd 카드에 씌움
+라즈베리파이 부팅 붕~
+
+---
+
+class: middle, inverse, full-text
+
+라즈베리 b+ GPIO
+<img src="http://data.designspark.info/uploads/images/53bc258dc6c0425cb44870b50ab30621" alt="img" style="width: 450px;"/>
+
+---
+
+class: middle, inverse, full-text
+
+![실물](/doc/img/rasledr.jpg)
+![구조도](/doc/img/rasled.png)
+
+배선그리기
+http://fritzing.org/download/
+---
+
+class: middle, inverse, full-text
+
+```
+sudo apt-get update
+sudo apt-get install python-rpi.gpio
+
+sudo python
+>>>import RPi.GPIO as GPIO
+>>>GPIO.setmode(GPIO.BCM)
+>>>GPIO.setup(17, GPIO.OUT)
+>>>GPIO.setup(17, GPIO.HIGH)
+>>>GPIO.setup(17, GPIO.LOW)
+
+```
+
+---
+class: middle, inverse, full-text
+
+방금그라디오
+쑥갓키우기
 
 ---
 
@@ -185,4 +306,11 @@ class:  middle, inverse, full-text
         if song['channel']['channelType'] ...
     ```
 ---
+class: middle, inverse, full-text
+
+쑥갓키우기
+https://play.google.com/store/search?q=%EC%91%A5%EA%B0%93%ED%82%A4%EC%9A%B0%EA%B8%B0&hl=ko
+
+---
+
 
