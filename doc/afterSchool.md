@@ -1,5 +1,25 @@
 ![뒷풀이](img/a141014.jpg)
 
+## PART II - 쉬어가기 장고3회 , agngularJS
+바이오파이썬 쉬어가기 : django - 3회차 + AngularJS
+오늘 바이오파이썬 쉬어가기 3번째 스터디가 있었습니다.
+첫번째 세션에서 김무성님의 파이썬 장고 3차 강의가 있었으며, 이전 1,2차에 걸친 REST 환경을 더욱더 완성도 높이는 시간이었습니다. Django REST framework (http://www.django-rest-framework.org/) 을
+사용하여 이전의 raw coding 을 더욱 깔끔하게 만들고, Token authentication 까지 구현하는 것을 소개해 주었습니다.
+또한 Requests (http://docs.python-requests.org/en/latest/) 모듈까지 소개하면서 REST api 접근법까지 일관성있는 설명을 해주었습니다. 무성님 특유의 핵심정리 설명으로 장고 REST 시스템을 잘 보여주었습니다.
+사실 post, get, put, delete 4가지 모두를 raw coding으로 django REST 구현한 것은 웹상이나 책에서 보기 어려운 것이었는데...
+지난 3차간의 장고 스터디는 무성님 본인의 노하우를 아낌없이 나누어 주는 장고 스터디 시간 이었던듯..
+제 개인적으로는 framework 설명보다는 이런 raw coding 이 훨씬 배우는게 많은듯..
+다시한번 감사.. 무성님 !!!!
+두번째 세션에서는 김현동님의 화련한 라이브코딩 강좌가 있었습니다.
+구글이 지원하는 말로만 듣던 AngularJS (https://www.angularjs.org/) 를 단순한 문법 설명만 하는게 아니라, 왜 본인이 AngularJS 를 사용해야 했나 하는 필요성에 대한 지나간 과정을 보여주고,
+live coding 으로 직접 보통의 javascript 로 짠 코드와 비교 설명해 주어서 느낌 팍 받은 시간이었습니다. 그리고 Firebase (https://www.firebase.com/) 와 Parse (https://www.parse.com/) 를 이용하여 어떻게 편리하고 생산성있게 웹개발 할 수있는지를 보여주는 live AngularJS coding 은 정말 돈내고 등록하여 듣는 그 어떠한 IT conference 보다 훌륭한 시간이었습니다.
+아마도 당분간 AngularJS, Firebase, Parse 의 매력에 푹 빠질듯 합니다.
+정말 고마운 시간이었습니다. 김현동님 .. 감사!!!
+오늘 배운 것들은 웹의 백엔드와 프론트엔드의 핫이슈를 보여주었으며, 개인 프로젝트에 엄청난 도움이 될듯...
+혼자서 공부했으면 몇달을 가지고도 부족했을 시간을 정말 몇시간만에 이룬듯.. 뿌듯합니다...
+다음주에 있을 google app engine 강좌를 기대하며.... 이상 후기를 마침니다.
+by 박홍훈_141028
+
 ## PART II - 쉬어가기 장고2회
 비가 촉촉히 내리는 화요일 저녁시간.
 [쉬어가기 장고-1회차]에 참석 못한 아쉬움에 조금이라도 늦지 않으려했지만,
