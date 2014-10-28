@@ -10,11 +10,92 @@ class: title, center, middle, inverse
 ]
 
 ---
+class: middle, inverse, full-text
+
+문서지기, 지표방어
+![](../img/gp.png)
+
+---
+class: middle, inverse, full-text
+
+물건을 팔러오다. 재미
+
+---
 
 class: middle, inverse, full-text
 
 오늘의 주인공
 RASPBERRY PI B+
+![](../img/Raspberry_Pi_B+_top.jpg)
+
+---
+
+class: middle, inverse, full-text
+
+이런것들을 합니다.
+
+1. 라즈베리파이로 PC만들기!
+(준비과정)http://youtu.be/87IErsFekPY
+(OS설치)http://youtu.be/h9vm1GH5_Gk
+
+2. 라즈베리파이로 만든 휴대폰, PiPhone!
+http://youtu.be/8eaiNsFhtI8
+
+3. 라즈베리파이로 제어하는 로봇,R2D2와 PiBBOT!
+http://youtu.be/znuUm5vbSpI
+http://youtu.be/D0ydpIZFtuM
+
+4. 로봇팔을 작동시키는 라즈베리파이와 엑스박스360 컨트롤러!
+http://youtu.be/xvKGxHoBBII
+
+5. 라즈베리파이 카메라를 장착한 쿼드콥터(4개의 프로펠러를 사용하는 초미니 헬리콥터)!
+http://youtu.be/-dReyGvzAQw
+
+6. 라즈베리파이로 만든 간이 기상관측소!
+http://youtu.be/U8aZwKCH6qs
+
+7. 휴대용게임기로 변신한 라즈베리파이!
+http://youtu.be/6JuB0zOHGeg
+http://youtu.be/8CA8tWJW8rk
+
+---
+class: middle, inverse, full-text
+
+마이드스톰 동영상
+http://www.youtube.com/watch?v=85kI6oBSXHY
+
+큐빅맞추기
+http://www.youtube.com/watch?v=adOcQVTGpGI
+http://www.youtube.com/watch?v=staapsj3eRQ
+
+이동로봇
+http://www.youtube.com/watch?v=h5xSa-NaZtg
+
+이중에 내꺼는? 신입시절 월급으로 만든거?
+---
+class: middle, inverse, full-text
+이런걸 만듭니다 코크모
+http://cafe.naver.com/lolkor/3453320
+---
+class: middle, inverse, full-text
+
+뽐뿌질이 슬금슬금?
+---
+
+class: middle, inverse, full-text
+
+왜 그 동안 못했을까?
+---
+class: middle, inverse, full-text
+
+만들자 만들자의 진입장벽
+![](http://redslime.typepad.com/.a/6a00e551f28d3c88340120a4d22158970b-pi)
+
+---
+
+class: middle, inverse, full-text
+
+![](../img/burn.jpg)
 
 ---
 
@@ -101,15 +182,4 @@ class:  middle, inverse, full-text
         if song['channel']['channelType'] ...
     ```
 ---
-class: center, middle, inverse, full-text
-.full-image[![](IMG_20140910_130116.jpg)]
-
----
-class: center, middle, inverse, full-text
-
-감사합니다 ^_^
-
-[방금그라디오 facebook](https://www.facebook.com/pages/%EB%B0%A9%EA%B8%88%EA%B7%B8%EB%9D%BC%EB%94%94%EC%98%A4/760855817307720)<br>
-kozazz@hanmail.net
-
 
