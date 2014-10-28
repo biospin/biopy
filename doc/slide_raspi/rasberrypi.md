@@ -165,4 +165,37 @@ icbanq  http://www.icbanq.com/shop/
 디바이스마트 http://www.devicemart.co.kr/
 공구카페  http://cafe.naver.com/mpucafe/4821
 
+---
+class: middle, inverse, full-text
 
+라즈베리 os 다운로드
+os 다운로드. 종류 다양 raspbian 를 받자
+http://www.raspberrypi.org/downloads/
+raspbian zip download
+
+---
+
+class: middle, inverse, full-text
+
+win32diskimager
+윈도우 프로그램이용
+img 파일을 sd 카드에 씌움
+라즈베리파이 부팅 붕~
+
+---
+
+class: middle, inverse, full-text
+
+라즈베리 b+ GPIO
+<img src="http://data.designspark.info/uploads/images/53bc258dc6c0425cb44870b50ab30621" alt="img" style="width: 450px;"/>
+
+---
+
+class: middle, inverse, full-text
+
+![실물](/doc/img/rasledr.jpg)
+![구조도](/doc/img/rasled.png)
+
+배선그리기
+http://fritzing.org/download/
+---
