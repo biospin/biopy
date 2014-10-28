@@ -150,9 +150,9 @@ class: middle, inverse, full-text
 
 ![](http://www.icbank.com/icbank_data/image/shop_product/2014/8AE4D167-FBF2-469D-8190-164240DFE2C0.jpg)
 
-+ [빵판](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005535466)
-+ led 전구
-+ 저항
-+ [케이블](http://www.devicemart.co.kr/1113721)
+ [빵판](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005535466)
+ led 전구
+ 저항
+ [케이블](http://www.devicemart.co.kr/1113721)
 
 ---
