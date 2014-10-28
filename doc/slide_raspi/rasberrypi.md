@@ -275,7 +275,7 @@ class: center, middle, inverse, full-text
 ---
 
 class: middle, inverse, full-text
-# 준비물
+ 준비물
 
 1. [방금그곡api](http://music.daum.net/onair/timeline)
 1. python3
@@ -295,7 +295,7 @@ class: middle, middle, inverse, full-text
 - ![](https://camo.githubusercontent.com/7e1fdf3d7a138e6bad58c84361114fbc2cea8ff5/68747470733a2f2f7261772e6769746875622e636f6d2f5861766965724265726765722f706364383534342f6d61737465722f646f632f50434438353434776972696e672e706e67)
 ---
 class:  middle, inverse, full-text
-# 작업
+ 작업
 
 - [pcd8544 Python library 설치](https://github.com/XavierBerger/pcd8544)
 - pil 라이브러리 python2 에서만 실행;;
@@ -312,7 +312,7 @@ class:  middle, inverse, full-text
 ---
 class:  middle, inverse, full-text
 
-# code
+ code
 - [onair.py source](https://github.com/onairradio/onairradio.github.io/blob/master/onair.py)
 
     ```python
