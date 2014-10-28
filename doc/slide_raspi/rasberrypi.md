@@ -145,14 +145,6 @@ hello world ~
 led 전구에 불켜기
 
 ---
-class: middle, inverse, full-text
-
-라즈베리 os 다운로드
-os 다운로드. 종류 다양 raspbian 를 받자
-http://www.raspberrypi.org/downloads/
-raspbian zip download
-
----
 
 class: middle, inverse, full-text
 
