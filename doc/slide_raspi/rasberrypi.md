@@ -373,9 +373,13 @@ https://play.google.com/store/search?q=%EC%91%A5%EA%B0%93%ED%82%A4%EC%9A%B0%EA%B
 ---
 
 class: middle, middle, inverse, full-text
+
 - 앞으로 만들꺼
+
 - 메이크페어
+
 - 해리포토 마법 지팡이
+
 - 음성 + 동장인식..
 
 ---
