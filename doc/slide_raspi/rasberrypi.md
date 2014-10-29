@@ -73,8 +73,10 @@ http://www.youtube.com/watch?v=h5xSa-NaZtg
 이중에 내꺼는? 신입시절 월급으로 만든거?
 ---
 class: middle, inverse, full-text
+
 - 이런걸 만듭니다 코크모
 http://cafe.naver.com/lolkor/3453320
+
 ---
 class: middle, inverse, full-text
 
@@ -200,7 +202,7 @@ class: middle, inverse, full-text
 
 class: middle, inverse, full-text
 
-![실물](/doc/img/rasledr.jpg) ![구조도](/doc/img/rasled.png)
+![실물](img/rasledr.jpg) ![구조도](img/rasled.png)
 
 - 배선그리기
 http://fritzing.org/download/
