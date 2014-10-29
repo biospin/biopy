@@ -46,24 +46,30 @@ http://youtu.be/D0ydpIZFtuM
 class: middle, inverse, full-text
 
 - 로봇팔을 작동시키는 라즈베리파이와 엑스박스360 컨트롤러!
+
 http://youtu.be/xvKGxHoBBII
 
 - 라즈베리파이 카메라를 장착한 쿼드콥터(4개의 프로펠러를 사용하는 초미니 헬리콥터)!
+
 http://youtu.be/-dReyGvzAQw
 
 -  휴대용게임기로 변신한 라즈베리파이!
+
 http://youtu.be/6JuB0zOHGeg
+
 http://youtu.be/8CA8tWJW8rk
 
 ---
 class: middle, inverse, full-text
 
 - 마이드스톰 동영상
+
 http://www.youtube.com/watch?v=85kI6oBSXHY
 
 - 큐빅맞추기
 
 http://www.youtube.com/watch?v=adOcQVTGpGI
+
 http://www.youtube.com/watch?v=staapsj3eRQ
 
 - 이동로봇
@@ -75,6 +81,7 @@ http://www.youtube.com/watch?v=h5xSa-NaZtg
 class: middle, inverse, full-text
 
 - 이런걸 만듭니다 코크모
+
 http://cafe.naver.com/lolkor/3453320
 
 ---
