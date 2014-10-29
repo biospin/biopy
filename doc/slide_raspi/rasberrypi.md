@@ -58,20 +58,20 @@ http://youtu.be/8CA8tWJW8rk
 ---
 class: middle, inverse, full-text
 
-마이드스톰 동영상
+- 마이드스톰 동영상
 http://www.youtube.com/watch?v=85kI6oBSXHY
 
-큐빅맞추기
+- 큐빅맞추기
 http://www.youtube.com/watch?v=adOcQVTGpGI
 http://www.youtube.com/watch?v=staapsj3eRQ
 
-이동로봇
+- 이동로봇
 http://www.youtube.com/watch?v=h5xSa-NaZtg
 
 이중에 내꺼는? 신입시절 월급으로 만든거?
 ---
 class: middle, inverse, full-text
-이런걸 만듭니다 코크모
+- 이런걸 만듭니다 코크모
 http://cafe.naver.com/lolkor/3453320
 ---
 class: middle, inverse, full-text
@@ -159,50 +159,49 @@ class: middle, inverse, full-text
 class: middle, inverse, full-text
 
 재료 살 수 있는곳
-[[New버전] 라즈베리파이 Model B+ 단품](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005587400&catg_code=115185)
-[[New버전] 라즈베리파이 Model B+ Basic KIT](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005607887&catg_code=115185)
-icbanq  http://www.icbanq.com/shop/
-디바이스마트 http://www.devicemart.co.kr/
-공구카페  http://cafe.naver.com/mpucafe/4821
+- [[New버전] 라즈베리파이 Model B+ 단품](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005587400&catg_code=115185)
+- [[New버전] 라즈베리파이 Model B+ Basic KIT](http://www.icbanq.com/shop/product_detail.asp?prod_code=P005607887&catg_code=115185)
+- icbanq  http://www.icbanq.com/shop/
+- 디바이스마트 http://www.devicemart.co.kr/
+- 공구카페  http://cafe.naver.com/mpucafe/4821
 
 ---
 class: middle, inverse, full-text
 
-라즈베리 os 다운로드
-os 다운로드. 종류 다양 raspbian 를 받자
-http://www.raspberrypi.org/downloads/
-raspbian zip download
-
----
-
-class: middle, inverse, full-text
-
-win32diskimager
-윈도우 프로그램이용
-img 파일을 sd 카드에 씌움
-라즈베리파이 부팅 붕~
+- 라즈베리 os 다운로드
+- os 다운로드. 종류 다양 raspbian 를 받자
+- http://www.raspberrypi.org/downloads/
+- raspbian zip download
 
 ---
 
 class: middle, inverse, full-text
 
-라즈베리 b+ GPIO
+- win32diskimager
+- 윈도우 프로그램이용
+- img 파일을 sd 카드에 씌움
+- 라즈베리파이 부팅 붕~
+
+---
+
+class: middle, inverse, full-text
+
+- 라즈베리 b+ GPIO
 <img src="http://data.designspark.info/uploads/images/53bc258dc6c0425cb44870b50ab30621" alt="img" style="width: 450px;"/>
 
 ---
 
 class: middle, inverse, full-text
 
-![실물](/doc/img/rasledr.jpg)
-![구조도](/doc/img/rasled.png)
+![실물](/doc/img/rasledr.jpg) ![구조도](/doc/img/rasled.png)
 
-배선그리기
+- 배선그리기
 http://fritzing.org/download/
 ---
 
 class: middle, inverse, full-text
 
-```
+```python
 sudo apt-get update
 sudo apt-get install python-rpi.gpio
 
@@ -218,8 +217,8 @@ sudo python
 ---
 class: middle, inverse, full-text
 
-방금그라디오
-쑥갓키우기
+- 방금그라디오
+- 쑥갓키우기
 
 ---
 
@@ -242,7 +241,7 @@ class: center, middle, inverse, full-text
 
 class: center, middle, inverse, full-text
 
-```
+```python
 import 라디오모듈
 
 r.upVolume(1)
@@ -341,21 +340,22 @@ https://play.google.com/store/search?q=%EC%91%A5%EA%B0%93%ED%82%A4%EC%9A%B0%EA%B
 ---
 
 class: middle, middle, inverse, full-text
-앞으로 만들꺼
-메이크페어
-해리포토 마법 지팡이
-음성 + 동장인식..
+- 앞으로 만들꺼
+- 메이크페어
+- 해리포토 마법 지팡이
+- 음성 + 동장인식..
 
 ---
 
 class: middle, middle, inverse, full-text
-라즈베리파이 공모전
+
+- 라즈베리파이 공모전
 http://happysntcontest.kofst.or.kr/index.php
 
-공모전 응모자 중교육
+- 공모전 응모자 중교육
 http://happysntcontest.kofst.or.kr/file/2014%ED%96%89%EB%B3%B5%ED%95%9C%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%9B%90%20%EA%B5%90%EC%9C%A1%20%EC%95%88%EB%82%B4_141014.pdf
 
-라즈베리파이교육
+- 라즈베리파이교육
 서울 1.8(토)~9(일), 09~18시 전자부품연구원 케티파트너스 지하1층 교육장
 
 ---
