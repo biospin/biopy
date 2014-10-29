@@ -233,6 +233,7 @@ sudo python
 class: middle, inverse, full-text
 
 - 방금그라디오
+
 - 쑥갓키우기
 
 ---
