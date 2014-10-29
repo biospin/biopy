@@ -239,7 +239,7 @@ class: center, middle, inverse, full-text
 
 ---
 
-class: center, middle, inverse, full-text
+class: middle, inverse, full-text
 
 ```python
 import 라디오모듈
@@ -334,7 +334,7 @@ class:  middle, inverse, full-text
 ---
 class: middle, inverse, full-text
 
-쑥갓키우기
+- 쑥갓키우기
 https://play.google.com/store/search?q=%EC%91%A5%EA%B0%93%ED%82%A4%EC%9A%B0%EA%B8%B0&hl=ko
 
 ---
