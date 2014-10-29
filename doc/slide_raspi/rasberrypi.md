@@ -77,6 +77,7 @@ http://www.youtube.com/watch?v=staapsj3eRQ
 http://www.youtube.com/watch?v=h5xSa-NaZtg
 
 이중에 내꺼는? 신입시절 월급으로 만든거?
+
 ---
 class: middle, inverse, full-text
 
