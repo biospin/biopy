@@ -75,7 +75,9 @@ class: middle, inverse, full-text
 
 이런걸 만듭니다 코크모
 
-http://cafe.naver.com/lolkor/3453320
+<img src="http://cafeptthumb1.phinf.naver.net/20130208_299/redra_1360249421811SwNS1_JPEG/KogMaw_MK-II__448.jpg?type=w740" alt="img" style="width: 450px;"/>
+<img src="http://cafeptthumb2.phinf.naver.net/20130208_192/redra_1360249422127ThqbK_JPEG/KogMaw_MK-II__352_.JPG?type=w740" alt="img" style="width: 450px;"/>
+<img src="http://cafeptthumb3.phinf.naver.net/20130208_108/redra_1360249422399QwjSJ_JPEG/KogMaw_MK-II__435.jpg?type=w740" alt="img" style="width: 450px;"/>
 
 ---
 class: middle, inverse, full-text
