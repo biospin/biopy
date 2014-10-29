@@ -73,11 +73,9 @@ http://www.youtube.com/watch?v=h5xSa-NaZtg
 ---
 class: middle, inverse, full-text
 
-이런걸 만듭니다 코크모
-
-<img src="https://lh3.googleusercontent.com/-dvhAlXcwPvc/URhhGPQSXPI/AAAAAAAAALI/JQ82Dzj2954/w800-h800/KogMaw_MK-II_%2B435.jpg" alt="img" style="width: 450px;"/>
-<img src="https://lh5.googleusercontent.com/-Gdi4J7wKvxo/URhhIJB09UI/AAAAAAAABrg/vnBw9hSokOk/w980-h735/KogMaw_MK-II_%2B448.jpg" alt="img" style="width: 450px;"/>
-<img src="https://lh3.googleusercontent.com/-KW2yFeLVAkY/URhhH6GHNOI/AAAAAAAAALw/4iz9HlgOOx4/w800-h800/KogMaw_MK-II_%2B447.jpg" alt="img" style="width: 450px;"/>
+<img src="https://lh3.googleusercontent.com/-dvhAlXcwPvc/URhhGPQSXPI/AAAAAAAAALI/JQ82Dzj2954/w800-h800/KogMaw_MK-II_%2B435.jpg" alt="img" style="width: 300px;"/>
+<img src="https://lh5.googleusercontent.com/-Gdi4J7wKvxo/URhhIJB09UI/AAAAAAAABrg/vnBw9hSokOk/w980-h735/KogMaw_MK-II_%2B448.jpg" alt="img" style="width: 300px;"/>
+<img src="https://lh3.googleusercontent.com/-KW2yFeLVAkY/URhhH6GHNOI/AAAAAAAAALw/4iz9HlgOOx4/w800-h800/KogMaw_MK-II_%2B447.jpg" alt="img" style="width: 300px;"/>
 
 ---
 class: middle, inverse, full-text
