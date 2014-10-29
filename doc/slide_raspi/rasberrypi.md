@@ -191,6 +191,7 @@ class: middle, inverse, full-text
 class: middle, inverse, full-text
 
 - 라즈베리 b+ GPIO
+
 <img src="http://data.designspark.info/uploads/images/53bc258dc6c0425cb44870b50ab30621" alt="img" style="width: 450px;"/>
 
 ---
