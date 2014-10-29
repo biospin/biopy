@@ -32,7 +32,7 @@ RASPBERRY PI B+
 
 class: middle, inverse, full-text
 
-이런것들을 합니다.
+- 이런것들을 합니다.
 
 - 라즈베리파이로 만든 휴대폰, PiPhone!
 http://youtu.be/8eaiNsFhtI8
@@ -62,10 +62,12 @@ class: middle, inverse, full-text
 http://www.youtube.com/watch?v=85kI6oBSXHY
 
 - 큐빅맞추기
+
 http://www.youtube.com/watch?v=adOcQVTGpGI
 http://www.youtube.com/watch?v=staapsj3eRQ
 
 - 이동로봇
+
 http://www.youtube.com/watch?v=h5xSa-NaZtg
 
 이중에 내꺼는? 신입시절 월급으로 만든거?
