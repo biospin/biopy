@@ -202,16 +202,16 @@ class: middle, inverse, full-text
 
 class: middle, inverse, full-text
 
-![실물](img/rasledr.jpg)
-
----
-
-class: middle, inverse, full-text
-
 ![구조도](img/rasled.png)
 
 - 배선그리기
 http://fritzing.org/download/
+---
+
+class: middle, inverse, full-text
+
+![실물](img/rasledr.jpg)
+
 ---
 
 class: middle, inverse, full-text
