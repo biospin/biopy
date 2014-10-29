@@ -81,7 +81,7 @@ http://www.youtube.com/watch?v=h5xSa-NaZtg
 ---
 class: middle, inverse, full-text
 
-- 이런걸 만듭니다 코크모
+이런걸 만듭니다 코크모
 
 http://cafe.naver.com/lolkor/3453320
 
@@ -89,6 +89,7 @@ http://cafe.naver.com/lolkor/3453320
 class: middle, inverse, full-text
 
 뽐뿌질이 슬금슬금?
+
 ---
 
 class: middle, inverse, full-text
