@@ -382,6 +382,9 @@ http://happysntcontest.kofst.or.kr/file/2014%ED%96%89%EB%B3%B5%ED%95%9C%EA%B3%BC
 class: middle, middle, inverse, full-text
 
 설문
+
+![](img/research.png)
+
 https://dubu.typeform.com/to/LXbQui
 
 ---
