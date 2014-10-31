@@ -42,8 +42,8 @@
 
 [아두베리스핀]()
 
-  * [라즈베리파이](doc/part2/d013.md)
-  * [아두이노](doc/part2/d014.md)
+  * [라즈베리파이](doc/part2/d13.md)
+  * [아두이노](doc/part2/d14.md)
 
 [스터디후기](doc/afterSchool.md)
 
