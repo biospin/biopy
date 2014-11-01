@@ -9,8 +9,8 @@
 
 ### 최신글
 - [후기 - 2014.10.30](doc/afterSchool.md)
+- [아두이노 스핀 아두이노 - 2014.10.29](doc/part2/d14.md)
 - [아두이노 스핀 라즈베리파이 - 2014.10.29](doc/part2/d13.md)
-- [장고기반 REST API 만들기 실습 (3), angularJS  - 2014.10.28](doc/part2/d12.md)
 - [방문자 지표 - 2014.10.28](doc/analytics.md)
 
 ### 링크
