@@ -7,7 +7,7 @@ class: title, center, middle, inverse
 # <span class="sky">R</span>asberry <span class="sky">P</span>i
 
 .footnote[
-- [facebook](https://www.facebook.com/kozazz) 곽두환
+- [발표자](https://www.facebook.com/kozazz): 곽두환
 ]
 
 ---
