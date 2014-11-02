@@ -5,8 +5,9 @@ class: title, center, middle, inverse
 
 라즈베리파이 뿜뿌질
 # <span class="sky">R</span>asberry <span class="sky">P</span>i
+
 .footnote[
-- [kozazz](https://www.facebook.com/kozazz) 곽두환
+- [facebook](https://www.facebook.com/kozazz) 곽두환
 ]
 
 ---
