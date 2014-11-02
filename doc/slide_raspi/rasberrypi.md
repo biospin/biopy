@@ -6,7 +6,7 @@ class: title, center, middle, inverse
 라즈베리파이 뿜뿌질
 # <span class="sky">R</span>asberry <span class="sky">P</span>i
 .footnote[
-- [onairradio](https://biospin.github.io) 바이오스핀
+- [kozazz](https://www.facebook.com/kozazz) 곽두환
 ]
 
 ---
