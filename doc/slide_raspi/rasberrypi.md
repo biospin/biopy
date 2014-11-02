@@ -17,11 +17,6 @@ class: middle, inverse, full-text
 ![](img/gp.png)
 
 ---
-class: middle, inverse, full-text
-
-물건을 팔러오다. 재미
-
----
 
 class: middle, inverse, full-text
 
