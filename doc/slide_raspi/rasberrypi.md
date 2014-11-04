@@ -5,8 +5,9 @@ class: title, center, middle, inverse
 
 라즈베리파이 뿜뿌질
 # <span class="sky">R</span>asberry <span class="sky">P</span>i
+
 .footnote[
-- [onairradio](https://biospin.github.io) 바이오스핀
+- [발표자](https://www.facebook.com/kozazz): 곽두환
 ]
 
 ---
@@ -14,11 +15,6 @@ class: middle, inverse, full-text
 
 문서지기, 지표방어
 ![](img/gp.png)
-
----
-class: middle, inverse, full-text
-
-물건을 팔러오다. 재미
 
 ---
 
@@ -382,19 +378,6 @@ class: middle, middle, inverse, full-text
 - 해리포터 마법 지팡이
 
 - 음성 + 동장인식..
-
----
-
-class: middle, middle, inverse, full-text
-
-- 라즈베리파이 공모전
-http://happysntcontest.kofst.or.kr/index.php
-
-- 공모전 응모자 중교육
-http://happysntcontest.kofst.or.kr/file/2014%ED%96%89%EB%B3%B5%ED%95%9C%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EA%B0%9C%EB%B0%9C%EC%A7%80%EC%9B%90%20%EA%B5%90%EC%9C%A1%20%EC%95%88%EB%82%B4_141014.pdf
-
-- 라즈베리파이교육
-서울 11.8(토)~9(일), 09~18시 전자부품연구원 케티파트너스 지하1층 교육장
 
 ---
 
