@@ -14,11 +14,12 @@
 |PartII-7    |9/23/2014  |[ch17,20,21](d07.md)  | [조강익](https://www.facebook.com/kangik), [조정희](https://www.facebook.com/jeonghee.jo.37)  |  |  |
 |PartII-8    |9/30/2014  |[[특강]Pydoop+PySpark](d08.md)  | [김민경](https://www.facebook.com/mk.kim.904) |  |  |
 |PartII-9    |10/7/2014  |[ch13, [특강]R기초, Small Talk: Genetics](d09.md)  | [박세진](https://www.facebook.com/sejin.park.794), [김가경](https://www.facebook.com/irobii) |  |  |
-|PartII-10   |10/14/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (1)](d10.md) | [김무성](https://www.facebook.com/moodern) |  |  |
-|PartII-11   |10/21/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2)](d11.md) | [김무성](https://www.facebook.com/moodern) |  |  |
-|PartII-12   |10/28/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3), angularJS](d12.md) | [김무성](https://www.facebook.com/moodern) , [김현동](https://www.facebook.com/haydnhkim) |  |  |
+|보강   |10/14/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (1)](d10.md) | [김무성](https://www.facebook.com/moodern) |  |  |
+|보강   |10/21/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2)](d11.md) | [김무성](https://www.facebook.com/moodern) |  |  |
+|보강   |10/28/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3), angularJS](d12.md) | [김무성](https://www.facebook.com/moodern) , [김현동](https://www.facebook.com/haydnhkim) |  |  |
 |보강   |10/29/2014  | [[아두베리스핀] 라즈베리파이 뽐뿌질](http://biopy.github.io/doc/slide_raspi)| [곽두환](https://www.facebook.com/kozazz) |  |  |
 |보강   |10/30/2014  | [아두이노](d14.md)| [심상진](https://www.facebook.com/sangjin.sim.7) |  |  |
+|보강   |11/04/2014  | [구글 앱 엔진](d15.md) | [정동진](https://www.facebook.com/profile.php?id=100001321343782) |  |  |
 
 ## 목차
   * [Ipython notebook server setting on Biolinux 8 virtual machine](/doc/part2/d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine)
