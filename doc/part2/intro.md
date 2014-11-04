@@ -18,7 +18,7 @@
 |보강   |10/21/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (2)](d11.md) | [김무성](https://www.facebook.com/moodern) |  |  |
 |보강   |10/28/2014  | [파이썬과 웹 프로그래밍 - 장고기반  REST API 만들기 실습 (3), angularJS](d12.md) | [김무성](https://www.facebook.com/moodern) , [김현동](https://www.facebook.com/haydnhkim) |  |  |
 |보강   |10/29/2014  | [[아두베리스핀] 라즈베리파이 뽐뿌질](http://biopy.github.io/doc/slide_raspi)| [곽두환](https://www.facebook.com/kozazz) |  |  |
-|보강   |10/30/2014  | [아두이노](d14.md)| [심상진](https://www.facebook.com/sangjin.sim.7) |  |  |
+|보강   |10/30/2014  | [[아두베리스핀] 아두이노](d14.md)| [심상진](https://www.facebook.com/sangjin.sim.7) |  |  |
 |보강   |11/04/2014  | [구글 앱 엔진 & 구글 컴퓨트 엔진](d15.md) | [정동진](https://www.facebook.com/profile.php?id=100001321343782) |  |  |
 
 ## 목차
