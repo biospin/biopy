@@ -12,8 +12,6 @@
   * [Biopython I & Biopython II](doc/part1/d05.md)
   * [Data  management and relational databases](doc/part1/d06.md)
   * [Data analysis with Python](doc/part1/d07.md)
-  * [버전관리](doc/part1/d08.md)
-
 
 [part2]()
 
@@ -54,7 +52,7 @@
 
 
 [보강]()
-
+  * [버전관리](doc/part1/d08.md)
   * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (1)](doc/part2/d10.md)
   * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (2)](doc/part2/d11.md)
   * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (3)](doc/part2/d12.md)
