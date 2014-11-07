@@ -24,14 +24,14 @@ ML-부교재 4 : Building Machine Learning Systems with Python(한국어판) Sci
 |              |            |(Bio-부교재3)Chapter 11 Genetic Algorithms |         |
 |Part III-6    |12/16/2014  |(Bio-부교재3)Chapter 10 Hidden Markov Model (1시간 10분) |               |
 |              |            |(보강C) CRF (1시간 10분) |              |
-|Part III-7    |12/23/2014  |  |  |  |  |
-|Part III-8    |12/30/2014  |  |  |  |  |
-|Part III-9    |  |  |  |  |  |
-|Part III-10    |  |  |  |  |  |
-|Part III-11    |  |  |  |  |  |
-|Part III-12    |  |  |  |  |  |
-|Part III-13    |  |  |  |  |  |
-|Part III-14    |  |  |  |  |  |
-|Part III-15    |  |  |  |  |  |
-|Part III-16    |  |  |  |  |  |
+|Part III-7    |12/23/2014  |  |  |
+|Part III-8    |12/30/2014  |  |  |
+|Part III-9    |  |  |  |
+|Part III-10    |  |  |  |
+|Part III-11    |  |  |  |
+|Part III-12    |  |  |  |
+|Part III-13    |  |  |  |
+|Part III-14    |  |  |  |
+|Part III-15    |  |  |  |
+|Part III-16    |  |  |  |
 
