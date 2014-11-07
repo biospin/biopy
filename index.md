@@ -2,8 +2,8 @@
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
-### 파이썬을 이용한 Bioinformatics 기초
-- 2014년 6월 3일 - 2015년 1월 27일 (변경 가능)
+### 파이썬을 이용한 Bioinformatics 기초 part III
+- 2014년 11월 11일 - 2015년 2월 17일 (변경 가능)
 - 매주 화요일 저녁. 7시 30분~9시 30분/10시
 - 장소 : 토즈 강남점/타워점
 
