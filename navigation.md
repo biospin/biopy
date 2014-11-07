@@ -29,9 +29,6 @@
   * [Part2-7: ch17,20~21+](doc/part2/d07.md)
   * [Part2-8: (특강)Pydoop+PySpark](doc/part2/d08.md)
   * [Part2-9: ch13,(특강)R기초](doc/part2/d09.md)
-  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (1)](doc/part2/d10.md)
-  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (2)](doc/part2/d11.md)
-  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (3)](doc/part2/d12.md)
 
 [part3]()
 
@@ -56,9 +53,11 @@
   #* [Part III-16](doc/part3/d16.md)
 
 
-[아두베리스핀]()
+[보강]()
 
-  * [라즈베리파이](doc/part2/d13.md)
+  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (1)](doc/part2/d10.md)
+  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (2)](doc/part2/d11.md)
+  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (3)](doc/part2/d12.md)  * [라즈베리파이](doc/part2/d13.md)
   * [아두이노](doc/part2/d14.md)
 
 [스터디후기](doc/afterSchool.md)
