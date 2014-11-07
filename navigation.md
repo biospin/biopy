@@ -57,7 +57,8 @@
 
   * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (1)](doc/part2/d10.md)
   * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (2)](doc/part2/d11.md)
-  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (3)](doc/part2/d12.md)  * [라즈베리파이](doc/part2/d13.md)
+  * [파이썬과 웹 프로그래밍 - 장고기반 REST API 만들기 실습 (3)](doc/part2/d12.md)
+  * [라즈베리파이](doc/part2/d13.md)
   * [아두이노](doc/part2/d14.md)
 
 [스터디후기](doc/afterSchool.md)
