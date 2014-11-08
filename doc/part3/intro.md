@@ -6,13 +6,13 @@ ML-부교재 4 : Building Machine Learning Systems with Python(한국어판) Sci
 ## 일정
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
-|Part III-1    |11/11/2014  |(Bio-부교재3)Chapter 2 NumPy and SciPy (30분) |(Bio-부교재3)Chapter 2 - 최창순  |
-|              |            |(ML-부교재4)1장. 기계 학습 파이썬으로 시작하기 (30분) |(ML-부교재4)1장 - 김무성  |
-|              |            |(Bio-부교재3)Chapter 3 Image Manipulation (30분) |(Bio-부교재3)Chapter 3,4 - 김덕근  |
-|              |            |(Bio-부교재3)Chapter 4 The Akando and Dancer Modules (30분) |            |
+|Part III-1    |11/11/2014  |(Bio-부교재3)Chapter 2 NumPy and SciPy (30분) |[최창순](https://www.facebook.com/changsoon.choi.3)  |
+|              |            |(ML-부교재4)1장. 기계 학습 파이썬으로 시작하기 (30분) |[김무성](https://www.facebook.com/moodern)  |
+|              |            |(Bio-부교재3)Chapter 3 Image Manipulation (30분) |[김덕근](https://www.facebook.com/dklovesky)  |
+|              |            |(Bio-부교재3)Chapter 4 The Akando and Dancer Modules (30분) |[김덕근](https://www.facebook.com/dklovesky)  |
 |Part III-2    |11/18/2014  |(Bio-부교재3)Chapter 5 Statistics (25분) |               |
-|              |            |(보강A) 확률 및 통계 기초 (1시간 30분) |(보강A) 확률 및 통계 기초 - 송숙영  |
-|              |            |(ML-부교재4)10장. 컴퓨터 비전: 패턴 인식 (25분) |(ML-부교재4)10장 - 박홍훈  |
+|              |            |(보강A) 확률 및 통계 기초 (1시간 30분) |[송숙영](https://www.facebook.com/sookyoung.song.3)  |
+|              |            |(ML-부교재4)10장. 컴퓨터 비전: 패턴 인식 (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
 |Part III-3    |11/18/2014  |(Bio-부교재3)Chapter 7 Sequence Alignment |               |
 |              |            |(Bio-부교재3)Chapter 8 Dynamic Programming |              |
 |              |            |(ML-부교재4)2장. 실제 예제를 이용한 분류법 학습 |         |
