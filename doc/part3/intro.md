@@ -18,7 +18,7 @@
 |              |            |(ML-부교재4)2장. 실제 예제를 이용한 분류법 학습 | 정우철        |
 |Part III-4    |12/02/2014  |(Bio-부교재3)Chapter 12 Multiple Sequence Alignment (25분) |               |
 |              |            |(Bio-부교재3)Chapter 13 Gapped Alignments (25분) |              |
-|              |            |(보강B) 선형대수 (1시간 30분) | 정동진 |   |
+|              |            |(보강B) 선형대수 (1시간 30분) | 정동진 |
 |Part III-5    |12/2/2014  |(Bio-부교재3)Chapter 23 Numerical Sequence Alignment |               |
 |              |            |(Bio-부교재3)Chapter 9 Tandem Repeat |              |
 |              |            |(Bio-부교재3)Chapter 11 Genetic Algorithms |         |
