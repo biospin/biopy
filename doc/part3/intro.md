@@ -1,7 +1,7 @@
 
 ## 파트3 교재
 [Bio-부교재 3 : Python for Bioinformatics ](http://www.amazon.com/Python-Bioinformatics-Bartlett-Biomedical-Informatics/dp/0763751863)
-ML-부교재 4 : Building Machine Learning Systems with Python(한국어판) Scikit-learn 라이브러리로 구현하는 기계 학습 시스템
+[ML-부교재 4 : Building Machine Learning Systems with Python(한국어판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788960775367&orderClick=JAK)
 
 ## 일정
 |회차	    |날짜	   |주제	                                                    |발표자	|
