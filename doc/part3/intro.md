@@ -55,7 +55,7 @@ ML-부교재 4 : Building Machine Learning Systems with Python(한국어판) Sci
 |               |           | (보강) 강화학습 |     |
 |               |           | (보강) 병렬화 알고리즘 |     |
 
-## 목차 Bio-부교재3
+## 목차 Bio-부교재 3
  Python for Bioinformatics
  1. Introduction
  2. NumPy and SciPy
