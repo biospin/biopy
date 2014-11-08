@@ -9,6 +9,7 @@
 
 ### 최신글
 - [part 3 일정등록 - 2014.11.08](doc/part3/intro.md)
+- [후기 - 2014.11.07](doc/afterSchool.md)
 - [보강 - 구글 앱 엔진 & 구글 컴퓨트 엔진 - 2014.11.04](doc/part2/d15.md)
 - [방문자 지표 - 2014.11.04](doc/analytics.md)
 
