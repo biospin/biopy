@@ -56,30 +56,45 @@ ML-부교재 4 : Building Machine Learning Systems with Python(한국어판) Sci
 |               |           | (보강) 병렬화 알고리즘 |     |
 
 ## 목차 Bio-부교재3 : Python for Bioinformatics
-1.   Introduction
-2.   NumPy and SciPy
-3.   Image Manipulation
-4.   Akando and Dancer Modules
-5.   Statistics
-6.   Parsing DNA Data Files
-7.   Sequence Alignment
-8.   Dynamic Programming
-9.  Tandem Repeats
-10. Hidden Markov Models
-11. Genetic Algorithms
-12. Multiple Sequence Alignment
-13. Gapped Alignments
-14. Trees
-15. Text Mining
-16. Complexity
-17. Clustering
-18. Self-Organizing Maps
-19. Principals
-20. Species Identification
-21. Fourier Transforms and Correlations
-22. Correlations
-23. Numerical Sequence Alignment
-24. Gene Expression Array Files
-25. Spot Finding and Measurement
-26. Spreadsheet Arrays and Displaying the Data
-27. Applications with Expression Arrays
+ 1. Introduction
+ 2. NumPy and SciPy
+ 3. Image Manipulation
+ 4. Akando and Dancer Modules
+ 5. Statistics
+ 6. Parsing DNA Data Files
+ 7. Sequence Alignment
+ 8. Dynamic Programming
+ 9. Tandem Repeats
+ 10. Hidden Markov Models
+ 11. Genetic Algorithms
+ 12. Multiple Sequence Alignment
+ 13. Gapped Alignments
+ 14. Trees
+ 15. Text Mining
+ 16. Complexity
+ 17. Clustering
+ 18. Self-Organizing Maps
+ 19. Principals
+ 20. Species Identification
+ 21. Fourier Transforms and Correlations
+ 22. Correlations
+ 23. Numerical Sequence Alignment
+ 24. Gene Expression Array Files
+ 25. Spot Finding and Measurement
+ 26. Spreadsheet Arrays and Displaying the Data
+ 27. Applications with Expression Arrays
+
+## 목차 ML-부교재 4 : Building Machine Learning Systems with Python(한국어판)
+ 1장. 기계 학습 파이썬으로 시작하기
+ 2장. 실제 예제를 이용한 분류법 학습
+ 3장. 군집화: 관련된 게시물 찾기
+ 4장. 주제 모델링
+ 5장. 분류 I: 형편없는 답변 감지
+ 6장. 분류 II: 감성 분석
+ 7장. 회귀: 추천
+ 8장. 회귀: 향상된 추천
+ 9장. 분류III: 음악 장르 분류
+ 10장. 컴퓨터 비전: 패턴 인식
+ 11장. 차원 수 줄이기
+ 12장. (조금 더 큰) 빅데이터
+ 13장. 기계 학습을 더 배울 수 있는 자료
