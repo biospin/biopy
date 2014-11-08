@@ -15,10 +15,10 @@ ML-부교재 4 : Building Machine Learning Systems with Python(한국어판) Sci
 |              |            |(ML-부교재4)10장. 컴퓨터 비전: 패턴 인식 (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
 |Part III-3    |11/25/2014  |(Bio-부교재3)Chapter 7 Sequence Alignment |               |
 |              |            |(Bio-부교재3)Chapter 8 Dynamic Programming |              |
-|              |            |(ML-부교재4)2장. 실제 예제를 이용한 분류법 학습 | [정우철]        |
+|              |            |(ML-부교재4)2장. 실제 예제를 이용한 분류법 학습 | 정우철        |
 |Part III-4    |12/02/2014  |(Bio-부교재3)Chapter 12 Multiple Sequence Alignment (25분) |               |
 |              |            |(Bio-부교재3)Chapter 13 Gapped Alignments (25분) |              |
-|              |            |(보강B) 선형대수 (1시간 30분) |         | [정동진]
+|              |            |(보강B) 선형대수 (1시간 30분) |         | 정동진 |
 |Part III-5    |12/2/2014  |(Bio-부교재3)Chapter 23 Numerical Sequence Alignment |               |
 |              |            |(Bio-부교재3)Chapter 9 Tandem Repeat |              |
 |              |            |(Bio-부교재3)Chapter 11 Genetic Algorithms |         |
@@ -55,3 +55,31 @@ ML-부교재 4 : Building Machine Learning Systems with Python(한국어판) Sci
 |               |           | (보강) 강화학습 |     |
 |               |           | (보강) 병렬화 알고리즘 |     |
 
+## 목차 Bio-부교재3 : Python for Bioinformatics
+1.   Introduction
+2.   NumPy and SciPy
+3.   Image Manipulation
+4.   Akando and Dancer Modules
+5.   Statistics
+6.   Parsing DNA Data Files
+7.   Sequence Alignment
+8.   Dynamic Programming
+9.  Tandem Repeats
+10. Hidden Markov Models
+11. Genetic Algorithms
+12. Multiple Sequence Alignment
+13. Gapped Alignments
+14. Trees
+15. Text Mining
+16. Complexity
+17. Clustering
+18. Self-Organizing Maps
+19. Principals
+20. Species Identification
+21. Fourier Transforms and Correlations
+22. Correlations
+23. Numerical Sequence Alignment
+24. Gene Expression Array Files
+25. Spot Finding and Measurement
+26. Spreadsheet Arrays and Displaying the Data
+27. Applications with Expression Arrays
