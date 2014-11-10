@@ -60,6 +60,7 @@
   * [라즈베리파이](doc/part2/d13.md)
   * [아두이노](doc/part2/d14.md)
   * [구글 앱 엔진 & 구글 컴퓨트 엔진](doc/part2/d15.md)
+  * [바이오 심화 NGS](doc/part2/d16.md)
 
 [스터디후기](doc/afterSchool.md)
 

@@ -20,6 +20,8 @@
 |보강   |10/29/2014  | [[아두베리스핀] 라즈베리파이 뽐뿌질](http://biopy.github.io/doc/slide_raspi)| [곽두환](https://www.facebook.com/kozazz) |  |  |
 |보강   |10/30/2014  | [[아두베리스핀] 아두이노](d14.md)| [심상진](https://www.facebook.com/sangjin.sim.7) |  |  |
 |보강   |11/04/2014  | [구글 앱 엔진 & 구글 컴퓨트 엔진](d15.md) | [정동진](https://www.facebook.com/profile.php?id=100001321343782) |  |  |
+|보강   |11/04/2014  | [바이오 심화 NGS](d16.md) | [노규형](https://www.facebook.com/kyoohyoung.rho) |  |  |
+
 
 ## 목차
   * [Ipython notebook server setting on Biolinux 8 virtual machine](/doc/part2/d01.md#2._Ipython_notebook_server_setting_on_Biolinux_8_virtual_machine)
