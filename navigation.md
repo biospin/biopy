@@ -33,7 +33,7 @@
   * #소개
   * [교재&일정](doc/part3/intro.md)
   ----------
-  * [Part III-1](doc/part3/d01.md)
+  * [Part III-1 chap 2~4, 1장](doc/part3/d01.md)
   * [Part III-2](doc/part3/d02.md)
   * [Part III-3](doc/part3/d03.md)
   * [Part III-4](doc/part3/d04.md)
