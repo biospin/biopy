@@ -6,10 +6,10 @@
 ## 일정
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
-|Part III-1    |11/11/2014  |(Bio-부교재3)Chapter 2 NumPy and SciPy (30분) |[최창순](https://www.facebook.com/changsoon.choi.3)  |
-|              |            |(Bio-부교재3)Chapter 3 Image Manipulation (30분) |[김덕근](https://www.facebook.com/dklovesky)  |
-|              |            |(Bio-부교재3)Chapter 4 The Akando and Dancer Modules (30분) |[김덕근](https://www.facebook.com/dklovesky)  |
-|              |            |(ML-부교재4)1장. 기계 학습 파이썬으로 시작하기 (30분) |[김무성](https://www.facebook.com/moodern)  |
+|Part III-1    |11/11/2014  |[Bio-부교재3 Chapter 2 NumPy and SciPy](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/bio02/Bio_Ch02_Numpy_Scipy.ipynb) |[최창순](https://www.facebook.com/changsoon.choi.3)  |
+|              |            |[(Bio-부교재3)Chapter 3 Image Manipulation](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/bio03/Image.ipynb) |[김덕근](https://www.facebook.com/dklovesky)  |
+|              |            |[(Bio-부교재3)Chapter 4 The Akando and Dancer Modules](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/bio04/AkandoDancer.ipynb) |[김덕근](https://www.facebook.com/dklovesky)  |
+|              |            |[ML-부교재4 1장. 기계 학습 파이썬으로 시작하기](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/ml01/ML_Ch01_Getting_Started_with_Python_Machine_Learning.ipynb) |[김무성](https://www.facebook.com/moodern)  |
 |Part III-2    |11/18/2014  |(Bio-부교재3)Chapter 5 Statistics (25분) |               |
 |              |            |(보강A) 확률 및 통계 기초 (1시간 30분) |[송숙영](https://www.facebook.com/sookyoung.song.3)  |
 |              |            |(ML-부교재4)10장. 컴퓨터 비전: 패턴 인식 (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
@@ -58,8 +58,8 @@
 ## 목차 Bio-부교재 3
  Python for Bioinformatics
  1. Introduction
- 2. NumPy and SciPy
- 3. Image Manipulation
+ [2. NumPy and SciPy]((http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/bio02/Bio_Ch02_Numpy_Scipy.ipynb))
+ [3. Image Manipulation]((http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/bio03/Image.ipynb))
  4. Akando and Dancer Modules
  5. Statistics
  6. Parsing DNA Data Files
@@ -87,7 +87,7 @@
 
 ## 목차 ML-부교재 4
  Building Machine Learning Systems with Python(한국어판)
- 1장. 기계 학습 파이썬으로 시작하기
+ [1장. 기계 학습 파이썬으로 시작하기]([ML-부교재4 1장. 기계 학습 파이썬으로 시작하기](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/ml01/ML_Ch01_Getting_Started_with_Python_Machine_Learning.ipynb))
  2장. 실제 예제를 이용한 분류법 학습
  3장. 군집화: 관련된 게시물 찾기
  4장. 주제 모델링
