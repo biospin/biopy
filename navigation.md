@@ -31,6 +31,7 @@
 
 [part3]()
 
+  * [버전관리](doc/part1/d08.md)
   * [일정](doc/part3/intro.md)
   ----------
   * [Part III-1 chap 2~4, 1장](doc/part3/d01.md)
