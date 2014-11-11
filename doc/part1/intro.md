@@ -9,7 +9,7 @@
 |PartI-1    |6/3/2014   |[유닉스(리눅스) 기본 명령어 & 파이썬 환경설정](d01.md)	        |[김무성](https://www.facebook.com/moodern) |                                  |         |
 |PartI-2    |6/10/2014  |[IPython notebook](d02.md)	                                |[김가경](https://www.facebook.com/irobii) |                                  |         |
 |PartI-3	|6/17/2014	|[Python Basics I](d03.md)	                                    |[홍길한](https://www.facebook.com/rigor74) |                                  |         |
-|PartI-4	|6/24/2014	|[Python Basics II](d03.md)	                                |[홍길한](https://www.facebook.com/rigor74) |[DNA sequence의 reverse complement](d03.md) |[박세진]((https://www.facebook.com/sejin.park.794))   |
+|PartI-4	|6/24/2014	|[Python Basics II](d03.md)	                                |[홍길한](https://www.facebook.com/rigor74) |[DNA sequence의 reverse complement](d03.md) |[박세진]((https://www.facebook.com/sejin.park.794)   |
 |PartI-5	|7/1/2014	|[Python Modules & NumPy and Matplotlib](d04.md)	            |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450) |[IPython notebook 추가 설명](d04.md)	       |[김가경](https://www.facebook.com/irobii)   |
 |PartI-6	|7/8/2014	|[Biopython I, II](d05.md)	                                    |[박세진](https://www.facebook.com/sejin.park.794) |                                  |         |
 |PartI-7	|7/15/2014	|[Data  management and relational databases](d06.md)	        |[김성준](https://www.facebook.com/akudoku) |                                  |         |
