@@ -1,9 +1,8 @@
-# 바이오스핀
-
+# 바이오파이썬
 
 [part1]()
 
-  * asdf
+  * #
   * [일정](doc/part1/intro.md)
   ----------
   * [유닉스(리눅스) 기본 명령어 & 파이썬 환경설정](doc/part1/d01.md)
@@ -14,9 +13,9 @@
   * [Data  management and relational databases](doc/part1/d06.md)
   * [Data analysis with Python](doc/part1/d07.md)
 
-
 [part2]()
 
+  * #
   * [일정](doc/part2/intro.md)
   ----------
   * [Part2-1: ch1~4](doc/part2/d01.md)
@@ -29,9 +28,9 @@
   * [Part2-8: (특강)Pydoop+PySpark](doc/part2/d08.md)
   * [Part2-9: ch13,(특강)R기초](doc/part2/d09.md)
 
-
 [part3]()
 
+  * #
   * [일정](doc/part3/intro.md)
   ----------
   * [Part III-1 chap 2~4, 1장](doc/part3/d01.md)
