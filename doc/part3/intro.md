@@ -7,9 +7,9 @@
 |회차	    |날짜	   |주제	                                                    |발표자	|
 |:---	    |:---	   |:---	                                                    |:---	|
 |Part III-1    |11/11/2014  |(Bio-부교재3)Chapter 2 NumPy and SciPy (30분) |[최창순](https://www.facebook.com/changsoon.choi.3)  |
-|              |            |(ML-부교재4)1장. 기계 학습 파이썬으로 시작하기 (30분) |[김무성](https://www.facebook.com/moodern)  |
 |              |            |(Bio-부교재3)Chapter 3 Image Manipulation (30분) |[김덕근](https://www.facebook.com/dklovesky)  |
 |              |            |(Bio-부교재3)Chapter 4 The Akando and Dancer Modules (30분) |[김덕근](https://www.facebook.com/dklovesky)  |
+|              |            |(ML-부교재4)1장. 기계 학습 파이썬으로 시작하기 (30분) |[김무성](https://www.facebook.com/moodern)  |
 |Part III-2    |11/18/2014  |(Bio-부교재3)Chapter 5 Statistics (25분) |               |
 |              |            |(보강A) 확률 및 통계 기초 (1시간 30분) |[송숙영](https://www.facebook.com/sookyoung.song.3)  |
 |              |            |(ML-부교재4)10장. 컴퓨터 비전: 패턴 인식 (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
