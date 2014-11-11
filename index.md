@@ -8,7 +8,7 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [part3-1 bio chap 2~4 ,기계 학습 파이썬으로 시작하기 - 2014.11.11](doc/part2/d16.md)
+- [part3-1 bio chap 2~4 ,기계 학습 파이썬으로 시작하기 - 2014.11.11](doc/part3/d01.md)
 - [심화 NGS - 2014.11.10](doc/part2/d16.md)
 - [후기 - 2014.11.07](doc/afterSchool.md)
 - [방문자 지표 - 2014.11.04](doc/analytics.md)
