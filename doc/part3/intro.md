@@ -9,7 +9,7 @@
 |Part III-1    |11/11/2014  |[Chapter 2 NumPy and SciPy](d01.md) |[최창순](https://www.facebook.com/changsoon.choi.3)  |
 |              |            |[Chapter 3 Image Manipulation](d01.md) |[김덕근](https://www.facebook.com/dklovesky)  |
 |              |            |[Chapter 4 The Akando and Dancer Modules](d01.md) |[김덕근](https://www.facebook.com/dklovesky)  |
-|              |            |[1장. 기계 학습 파이썬으로 시작하기](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/ml01/ML_Ch01_Getting_Started_with_Python_Machine_Learning.ipynb) |[김무성](https://www.facebook.com/moodern)  |
+|              |            |[1장. 기계 학습 파이썬으로 시작하기](d01.md) |[김무성](https://www.facebook.com/moodern)  |
 |Part III-2    |11/18/2014  |Chapter 5 Statistics (25분) |               |
 |              |            |(보강A) 확률 및 통계 기초 (1시간 30분) |[송숙영](https://www.facebook.com/sookyoung.song.3)  |
 |              |            |10장. 컴퓨터 비전: 패턴 인식 (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
