@@ -2,8 +2,7 @@
 
 [part1]()
 
-  * #소개
-  * [교재&일정](doc/part1/intro.md)
+  * [일정](doc/part1/intro.md)
   ----------
   * [유닉스(리눅스) 기본 명령어 & 파이썬 환경설정](doc/part1/d01.md)
   * [IPython notebook](doc/part1/d02.md)
@@ -15,8 +14,7 @@
 
 [part2]()
 
-  * #소개
-  * [교재&일정](doc/part2/intro.md)
+  * [일정](doc/part2/intro.md)
   ----------
   * [Part2-1: ch1~4](doc/part2/d01.md)
   * [Part2-2: ch5,6,19+](doc/part2/d02.md)
@@ -30,8 +28,7 @@
 
 [part3]()
 
-  * #소개
-  * [교재&일정](doc/part3/intro.md)
+  * [일정](doc/part3/intro.md)
   ----------
   * [Part III-1 chap 2~4, 1장](doc/part3/d01.md)
   * [Part III-2](doc/part3/d02.md)
