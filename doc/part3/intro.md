@@ -58,8 +58,8 @@
 ## 목차 Bio-부교재 3
  Python for Bioinformatics
  1. Introduction
- [2. NumPy and SciPy](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/bio02/Bio_Ch02_Numpy_Scipy.ipynb)
- [3. Image Manipulation](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/bio03/Image.ipynb)
+ [2. NumPy and SciPy](d01.md)
+ [3. Image Manipulation](d01.md)
  4. Akando and Dancer Modules
  5. Statistics
  6. Parsing DNA Data Files
@@ -87,7 +87,7 @@
 
 ## 목차 ML-부교재 4
  Building Machine Learning Systems with Python(한국어판)
- [1장. 기계 학습 파이썬으로 시작하기](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week1/ml01/ML_Ch01_Getting_Started_with_Python_Machine_Learning.ipynb)
+ [1장. 기계 학습 파이썬으로 시작하기](d01)
  2장. 실제 예제를 이용한 분류법 학습
  3장. 군집화: 관련된 게시물 찾기
  4장. 주제 모델링
