@@ -19,9 +19,9 @@
 |Part III-4    |12/02/2014  |Chapter 12 Multiple Sequence Alignment (25분) |               |
 |              |            |Chapter 13 Gapped Alignments (25분) |              |
 |              |            |(보강B) 선형대수 (1시간 30분) | 정동진 |
-|Part III-5    |12/2/2014  |Chapter 23 Numerical Sequence Alignment |               |
-|              |            |Chapter 9 Tandem Repeat |              |
+|Part III-5    |12/2/2014  |Chapter 9 Tandem Repeat |               |
 |              |            |Chapter 11 Genetic Algorithms |         |
+|              |            |Chapter 23 Numerical Sequence Alignment |         |
 |Part III-6    |12/16/2014  |Chapter 10 Hidden Markov Model (1시간 10분) |               |
 |              |            |(보강C) CRF (1시간 10분) |              |
 |Part III-7    |12/23/2014  |Chapter 14 Trees  |  |
@@ -41,8 +41,8 @@
 |Part III-12    |1/27/2015  |Chapter 26 Spreadsheet Arrays and Data Displays    |  |
 |               |           |Chapter 27 Applications with Expression Arrays    |  |
 |               |           |8장. 회귀: 향상된 추천    |  |
-|Part III-13    |2/3/2015  | Chapter 22 Correlations |  |
-|               |          | Chapter 21 Fourier Transforms  |  |
+|Part III-13    |2/3/2015  | Chapter 21 Fourier Transforms |  |
+|               |          | Chapter 22 Correlations  |  |
 |               |          | 9장. 분류III: 음악 장르 분류 |  |
 |Part III-14    | 2/10/2015 | Chapter 19 Principal Component Analysis  |  |
 |               |           | 11장. 차원 수 줄이기 |  |
