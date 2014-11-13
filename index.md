@@ -2,20 +2,6 @@
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
-<script>
-  (function() {
-    var cx = '003731926665079035508:yiudsxulqkc';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//www.google.com/cse/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
-
 ### 파이썬을 이용한 Bioinformatics 기초 part 3
 - 2014년 11월 11일 - 2015년 2월 17일 (변경 가능)
 - 매주 화요일 저녁. 7시 30분~9시 30분/10시
