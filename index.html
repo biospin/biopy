@@ -211,7 +211,9 @@
 
         ga('create', 'UA-55283003-1', 'auto');
         ga('require', 'displayfeatures');
-        ga('send', 'pageview');
+        ga('send', 'pageview', {
+            'page': location.pathname + location.search  + location.hash
+        });
     </script>
     <!-- END google analytics -->
 </head>
