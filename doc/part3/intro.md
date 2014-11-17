@@ -14,7 +14,7 @@
 |              |            |(보강A) 확률 및 통계 기초 (1시간 30분) |[송숙영](https://www.facebook.com/sookyoung.song.3)  |
 |              |            |10장. 컴퓨터 비전: 패턴 인식 (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
 |Part III-3    |11/25/2014  |Chapter 7 Sequence Alignment |               |
-|              |            |Chapter 8 Dynamic Programming |              |
+|              |            |Chapter 8 Dynamic Programming | [곽두환](https://www.facebook.com/kozazz)             |
 |              |            |2장. 실제 예제를 이용한 분류법 학습 | 정우철        |
 |Part III-4    |12/02/2014  |Chapter 12 Multiple Sequence Alignment (25분) |               |
 |              |            |Chapter 13 Gapped Alignments (25분) |              |
