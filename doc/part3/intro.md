@@ -10,9 +10,9 @@
 |              |            |[Chapter 3 Image Manipulation](d01.md) |[김덕근](https://www.facebook.com/dklovesky)  |
 |              |            |[Chapter 4 The Akando and Dancer Modules](d01.md) |[김덕근](https://www.facebook.com/dklovesky)  |
 |              |            |[1장. 기계 학습 파이썬으로 시작하기](d01.md) |[김무성](https://www.facebook.com/moodern)  |
-|Part III-2    |11/18/2014  |[Chapter 5 Statistics](d02.md) (25분) | [김무성](https://www.facebook.com/moodern)    |
-|              |            |[(보강A) 확률 및 통계 기초](d02.md) (1시간 30분) |[김무성](https://www.facebook.com/moodern)  |
-|              |            |[10장. 컴퓨터 비전: 패턴 인식](d02.md) (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
+|Part III-2    |11/18/2014  |[Chapter 5 Statistics](d02.md) | [김무성](https://www.facebook.com/moodern)    |
+|              |            |[(보강A) 확률 및 통계 기초](d02.md) |[김무성](https://www.facebook.com/moodern)  |
+|              |            |[10장. 컴퓨터 비전: 패턴 인식](d02.md) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
 |Part III-3    |11/25/2014  |Chapter 7 Sequence Alignment | [강양제](https://www.facebook.com/yangjae.kang.1)              |
 |              |            |Chapter 8 Dynamic Programming | [곽두환](https://www.facebook.com/kozazz)             |
 |              |            |2장. 실제 예제를 이용한 분류법 학습 | [정우철](https://www.facebook.com/juczest)        |
