@@ -10,9 +10,9 @@
 |              |            |[Chapter 3 Image Manipulation](d01.md) |[김덕근](https://www.facebook.com/dklovesky)  |
 |              |            |[Chapter 4 The Akando and Dancer Modules](d01.md) |[김덕근](https://www.facebook.com/dklovesky)  |
 |              |            |[1장. 기계 학습 파이썬으로 시작하기](d01.md) |[김무성](https://www.facebook.com/moodern)  |
-|Part III-2    |11/18/2014  |Chapter 5 Statistics (25분) | [김무성](https://www.facebook.com/moodern)    |
+|Part III-2    |11/18/2014  |[Chapter 5 Statistics](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week2/bio05/ch05_Statistics.ipynb) (25분) | [김무성](https://www.facebook.com/moodern)    |
 |              |            |(보강A) 확률 및 통계 기초 (1시간 30분) |[송숙영](https://www.facebook.com/sookyoung.song.3)  |
-|              |            |10장. 컴퓨터 비전: 패턴 인식 (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
+|              |            |[10장. 컴퓨터 비전: 패턴 인식](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week2/ml10/ML chapter 10.ipynb) (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
 |Part III-3    |11/25/2014  |Chapter 7 Sequence Alignment | [강양제](https://www.facebook.com/yangjae.kang.1)              |
 |              |            |Chapter 8 Dynamic Programming | [곽두환](https://www.facebook.com/kozazz)             |
 |              |            |2장. 실제 예제를 이용한 분류법 학습 | [정우철](https://www.facebook.com/juczest)        |
@@ -56,7 +56,7 @@
  [2. NumPy and SciPy](d01.md)
  [3. Image Manipulation](d01.md)
  4. Akando and Dancer Modules
- 5. Statistics
+ [5. Statistics](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week2/bio05/ch05_Statistics.ipynb)
  6. Parsing DNA Data Files
  7. Sequence Alignment
  8. Dynamic Programming
@@ -91,7 +91,7 @@
  7장. 회귀: 추천
  8장. 회귀: 향상된 추천
  9장. 분류III: 음악 장르 분류
- 10장. 컴퓨터 비전: 패턴 인식
+ [10장. 컴퓨터 비전: 패턴 인식](http://nbviewer.ipython.org/github/biopy/biopy.github.io/blob/master/notebook/Part3/Week2/ml10/ML chapter 10.ipynb)
  11장. 차원 수 줄이기
  12장. (조금 더 큰) 빅데이터
  13장. 기계 학습을 더 배울 수 있는 자료
