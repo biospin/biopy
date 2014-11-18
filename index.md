@@ -21,5 +21,6 @@
 - [biospin tube](http://www.youtube.com/channel/UClCglW1qWWYSaV7ESozld1w)
 - [cloud server](http://cloud.biopython.net/)  ssh cloud.biopython.net 60915
 - [google analytics](doc/analytics.md)
+- [내부검색[새창]](https://www.google.com/cse/publicurl?cx=003731926665079035508:yiudsxulqkc)
 
 [<img src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png">](https://play.google.com/store/apps/details?id=com.dubu.biopyApp)

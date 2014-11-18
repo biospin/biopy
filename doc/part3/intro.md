@@ -10,53 +10,48 @@
 |              |            |[Chapter 3 Image Manipulation](d01.md) |[김덕근](https://www.facebook.com/dklovesky)  |
 |              |            |[Chapter 4 The Akando and Dancer Modules](d01.md) |[김덕근](https://www.facebook.com/dklovesky)  |
 |              |            |[1장. 기계 학습 파이썬으로 시작하기](d01.md) |[김무성](https://www.facebook.com/moodern)  |
-|Part III-2    |11/18/2014  |Chapter 5 Statistics (25분) |               |
+|Part III-2    |11/18/2014  |Chapter 5 Statistics (25분) | [김무성](https://www.facebook.com/moodern)    |
 |              |            |(보강A) 확률 및 통계 기초 (1시간 30분) |[송숙영](https://www.facebook.com/sookyoung.song.3)  |
 |              |            |10장. 컴퓨터 비전: 패턴 인식 (25분) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
-|Part III-3    |11/25/2014  |Chapter 7 Sequence Alignment |               |
-|              |            |Chapter 8 Dynamic Programming |              |
-|              |            |2장. 실제 예제를 이용한 분류법 학습 | 정우철        |
-|Part III-4    |12/02/2014  |Chapter 12 Multiple Sequence Alignment (25분) |               |
-|              |            |Chapter 13 Gapped Alignments (25분) |              |
-|              |            |(보강B) 선형대수 (1시간 30분) | 정동진 |
-|Part III-5    |12/2/2014  |Chapter 9 Tandem Repeat |               |
-|              |            |Chapter 11 Genetic Algorithms |         |
-|              |            |Chapter 23 Numerical Sequence Alignment |         |
-|Part III-6    |12/16/2014  |Chapter 10 Hidden Markov Model (1시간 10분) |               |
+|Part III-3    |11/25/2014  |Chapter 7 Sequence Alignment | [강양제](https://www.facebook.com/yangjae.kang.1)              |
+|              |            |Chapter 8 Dynamic Programming | [곽두환](https://www.facebook.com/kozazz)             |
+|              |            |2장. 실제 예제를 이용한 분류법 학습 | [정우철](https://www.facebook.com/juczest)        |
+|Part III-4    |12/02/2014  |Chapter 11 Genetic Algorithms |[조정희](https://www.facebook.com/jeonghee.jo.37)               |
+|              |            |Chapter 12 Multiple Sequence Alignment (25분)  |              |
+|              |            |(보강B) 선형대수 (1시간 30분) | [정동진](https://www.facebook.com/profile.php) |
+|Part III-5    |12/2/2014  |Chapter 13 Gapped Alignments (25분) |               |
+|              |            |Chapter 23 Numerical Sequence Alignment | [박성진](https://www.facebook.com/oscarsjpark)        |
+|              |            |(보강C) Google Prediction API & Google Bigquery & Google Genomics API  |         |
+|Part III-6    |12/16/2014  |Chapter 10 Hidden Markov Model (1시간 10분) | [김승욱](https://www.facebook.com/encaion)              |
 |              |            |(보강C) CRF (1시간 10분) |              |
-|Part III-7    |12/23/2014  |Chapter 14 Trees  |  |
+|Part III-7    |12/23/2014 |Chapter 16 Measuring Complexity  |[이성호](https://www.facebook.com/jaruvet)  |
+|              |           |Chapter 17 Clustering   |  |
+|              |           |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
+|Part III-8    |12/23/2014  |Chapter 14 Trees  |심상진  |
 |              |            |Chapter 15 Text Mining  |  |
-|              |            |Chapter 16 Measuring Complexity  |  |
-|Part III-8    |12/23/2014 |Chapter 17 Clustering  |  |
-|              |           |Chapter 18 SelfOrganizing Maps  |  |
-|              |           |3장. 군집화: 관련된 게시물 찾기 수  |  |
-|Part III-9    |1/06/2015  |4장. 주제 모델링  |  |
-|              |           |5장. 분류 I: 형편없는 답변 감지  |  |
-|              |           |6장. 분류 II: 감성 분석  |  |
-|Part III-10    |1/13/2015  |Chapter 20 Species Identification  |  |
-|               |           |(보강D) 정보이론 (1시간 30분)  |김권현  |
-|Part III-11    |1/20/2015  |Chapter 24 Gene Expression Array Files  |  |
-|               |           |Chapter 25 Spot Finding and Measurement  |  |
-|               |           |7장. 회귀: 추천  |  |
-|Part III-12    |1/27/2015  |Chapter 26 Spreadsheet Arrays and Data Displays    |  |
-|               |           |Chapter 27 Applications with Expression Arrays    |  |
-|               |           |8장. 회귀: 향상된 추천    |  |
-|Part III-13    |2/3/2015  | Chapter 21 Fourier Transforms |  |
-|               |          | Chapter 22 Correlations  |  |
-|               |          | 9장. 분류III: 음악 장르 분류 |  |
-|Part III-14    | 2/10/2015 | Chapter 19 Principal Component Analysis  |  |
-|               |           | 11장. 차원 수 줄이기 |  |
-|               |           | (보강E) 딥러닝 (1시간 30분) | |
-|Part III-15    | 2/17/2015 | 12장.(조금 더 큰)빅데이터  |  |
-|               |           | (보강) 빅데이터 처리 실습 |  |
-|               |           | (보강) Google Prediction API & Google Bigquery & Google Genomics API |  |
-|Part III-16    |           | (보강) 네트워크분석 | 노규형 |
-|               |           | (보강) Probabilistic Graphical Models |     |
-|               |           | (보강) 강화학습 |     |
-|               |           | (보강) 병렬화 알고리즘 |     |
+|              |            |4장. 주제 모델링   |양영은  |
+|Part III-9    |1/06/2015  |5장. 분류 I: 형편없는 답변 감지   | 이선영  |
+|              |           |(보강E) galaxy (일정 미정) | 김가경 |
+|Part III-10    |1/13/2015  |Chapter 18 Self-Organizing Maps  | 윤영우  |
+|               |           |(보강F) 딥러닝 (1시간 30분)  |   |
+|Part III-11    |1/20/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
+|               |           |Chapter 21 Fourier Transforms  | 조강익  |
+|               |           |(보강G) 정보이론 (1시간 30분)  | 김권현 |
+|Part III-12    |1/27/2015  |7장. 회귀: 추천 (ML-부교재4)  | 김주영 |
+|               |           |(보강H) Microarray analysis using R (일정 미정)    |  |
+|Part III-13    |2/3/2015  |Chapter 22 Correlations |  |
+|               |          |8장. 회귀: 향상된 추천 (ML-부교재4)  | 김수진  |
+|               |          |9장. 분류III: 음악 장르 분류 | 최명규 |
+|Part III-14    | 2/10/2015 |Chapter 19 Principal Component Analysis  |  |
+|               |           |Chapter 20 Species Identification| |
+|               |           |11장. 차원 수 줄이기 |  |
+|Part III-15    | 2/17/2015 |(보강) 네트워크분석 | 노규형 |
+|               |           |네트워크 관련 논문 Review |  |
+|Part III-16    |           |12장.(조금 더 큰)빅데이터  |  |
+|               |           |(보강J) 빅데이터 처리 실습 |     |
 
 ## 목차 Bio-부교재 3
- Python for Bioinformatics
+ [Python for Bioinformatics](http://www.amazon.com/Python-Bioinformatics-Bartlett-Biomedical-Informatics/dp/0763751863)
  1. Introduction
  [2. NumPy and SciPy](d01.md)
  [3. Image Manipulation](d01.md)
@@ -86,7 +81,7 @@
  27. Applications with Expression Arrays
 
 ## 목차 ML-부교재 4
- Building Machine Learning Systems with Python(한국어판)
+ [Building Machine Learning Systems with Python(한국어판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788960775367&orderClick=JAK)
  [1장. 기계 학습 파이썬으로 시작하기](d01.md)
  2장. 실제 예제를 이용한 분류법 학습
  3장. 군집화: 관련된 게시물 찾기
