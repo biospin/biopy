@@ -27,7 +27,7 @@
 |Part III-7    |12/23/2014 |Chapter 16 Measuring Complexity  |[이성호](https://www.facebook.com/jaruvet)  |
 |              |           |Chapter 17 Clustering   |  |
 |              |           |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
-|Part III-8    |12/23/2014  |Chapter 14 Trees  |심상진  |
+|Part III-8    |12/30/2014  |Chapter 14 Trees  |곽두환  |
 |              |            |Chapter 15 Text Mining  |  |
 |              |            |4장. 주제 모델링   |양영은  |
 |Part III-9    |1/06/2015  |5장. 분류 I: 형편없는 답변 감지   | 이선영  |
