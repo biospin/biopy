@@ -9,7 +9,7 @@
 
 ### 최신글
 - [part3-1 Chap 5 ,10장 컴퓨터비전, 확률 및 통계기초 - 2014.11.18](doc/part3/d02.md)
-- [후기 - 2014.11.11](doc/afterSchool.md)
+- [후기 - 2014.11.19](doc/afterSchool.md)
 - [방문자 지표 - 2014.11.18](doc/analytics.md)
 
 ### 링크
