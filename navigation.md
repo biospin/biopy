@@ -35,7 +35,7 @@
   ----------
   * [Part III-1 chap 2~4, 1장](doc/part3/d01.md)
   * [Part III-2 Chap 5,10장,확률 및 통계기초](doc/part3/d02.md)
-  * [Part III-3](doc/part3/d03.md)
+  * [Part III-3 Chapter 7~9, 2장](doc/part3/d03.md)
   * [Part III-4](doc/part3/d04.md)
   * [Part III-5](doc/part3/d05.md)
   * [Part III-6](doc/part3/d06.md)
