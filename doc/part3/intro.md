@@ -13,10 +13,10 @@
 |Part III-2    |11/18/2014  |[Chapter 5 Statistics](d02.md) | [김무성](https://www.facebook.com/moodern)    |
 |              |            |[(보강A) 확률 및 통계 기초](d02.md) |[김무성](https://www.facebook.com/moodern)  |
 |              |            |[10장. 컴퓨터 비전: 패턴 인식](d02.md) |[박홍훈](https://www.facebook.com/profile.php?id=100001858792450)  |
-|Part III-3    |11/25/2014  |Chapter 7 Sequence Alignment | [강양제](https://www.facebook.com/yangjae.kang.1)              |
-|              |            |Chapter 8 Dynamic Programming | [강양제](https://www.facebook.com/yangjae.kang.1)             |
-|              |            |Chapter 9 Tandem Repeat | [강양제](https://www.facebook.com/yangjae.kang.1)             |
-|              |            |2장. 실제 예제를 이용한 분류법 학습 | [정우철](https://www.facebook.com/juczest)        |
+|Part III-3    |11/25/2014  |[Chapter 7 Sequence Alignment](d03.md) | [강양제](https://www.facebook.com/yangjae.kang.1)              |
+|              |            |[Chapter 8 Dynamic Programming](d03.md) | [강양제](https://www.facebook.com/yangjae.kang.1)             |
+|              |            |[Chapter 9 Tandem Repeat](d03.md) | [강양제](https://www.facebook.com/yangjae.kang.1)             |
+|              |            |[2장. 실제 예제를 이용한 분류법 학습](d03.md) | [정우철](https://www.facebook.com/juczest)        |
 |Part III-4    |12/02/2014  |Chapter 11 Genetic Algorithms |[이성호](https://www.facebook.com/jaruvet)               |
 |              |            |(보강B) 선형대수 (1시간 30분) | [정동진](https://www.facebook.com/profile.php) |
 |Part III-5    |12/2/2014  |Chapter 12 Multiple Sequence Alignment (25분) |               |
@@ -59,9 +59,9 @@
  4. Akando and Dancer Modules
  [5. Statistics](d02.md)
  6. Parsing DNA Data Files
- 7. Sequence Alignment
- 8. Dynamic Programming
- 9. Tandem Repeats
+ [7. Sequence Alignment](d03.md)
+ [8. Dynamic Programming](d03.md)
+ [9. Tandem Repeats](d03.md)
  10. Hidden Markov Models
  11. Genetic Algorithms
  12. Multiple Sequence Alignment
@@ -84,7 +84,7 @@
 ## 목차 ML-부교재 4
  [Building Machine Learning Systems with Python(한국어판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788960775367&orderClick=JAK)
  [1장. 기계 학습 파이썬으로 시작하기](d01.md)
- 2장. 실제 예제를 이용한 분류법 학습
+ [2장. 실제 예제를 이용한 분류법 학습](d03.md)
  3장. 군집화: 관련된 게시물 찾기
  4장. 주제 모델링
  5장. 분류 I: 형편없는 답변 감지
