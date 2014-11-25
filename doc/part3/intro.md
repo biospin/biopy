@@ -59,9 +59,9 @@
  4. Akando and Dancer Modules
  [5. Statistics](d02.md)
  6. Parsing DNA Data Files
- 7. Sequence Alignment
- 8. Dynamic Programming
- 9. Tandem Repeats
+ [7. Sequence Alignment](d03.md)
+ [8. Dynamic Programming](d03.md)
+ [9. Tandem Repeats](d03.md)
  10. Hidden Markov Models
  11. Genetic Algorithms
  12. Multiple Sequence Alignment
@@ -84,7 +84,7 @@
 ## 목차 ML-부교재 4
  [Building Machine Learning Systems with Python(한국어판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788960775367&orderClick=JAK)
  [1장. 기계 학습 파이썬으로 시작하기](d01.md)
- 2장. 실제 예제를 이용한 분류법 학습
+ [2장. 실제 예제를 이용한 분류법 학습](d03.md)
  3장. 군집화: 관련된 게시물 찾기
  4장. 주제 모델링
  5장. 분류 I: 형편없는 답변 감지
