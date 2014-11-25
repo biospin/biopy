@@ -8,7 +8,7 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [part3-1 Chap 5 ,10장 컴퓨터비전, 확률 및 통계기초 - 2014.11.18](doc/part3/d02.md)
+- [part3-1 Chapter 7~9, 2장 - 2014.11.25](doc/part3/d03.md)
 - [후기 - 2014.11.19](doc/afterSchool.md)
 - [방문자 지표 - 2014.11.18](doc/analytics.md)
 
