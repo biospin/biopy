@@ -16,7 +16,7 @@
 |Part III-3    |11/25/2014  |[Chapter 7 Sequence Alignment](d03.md) | [강양제](https://www.facebook.com/yangjae.kang.1)              |
 |              |            |[Chapter 8 Dynamic Programming](d03.md) | [강양제](https://www.facebook.com/yangjae.kang.1)             |
 |              |            |[Chapter 9 Tandem Repeat](d03.md) | [강양제](https://www.facebook.com/yangjae.kang.1)             |
-|              |            |2장. 실제 예제를 이용한 분류법 학습 | [정우철](https://www.facebook.com/juczest)        |
+|              |            |[2장. 실제 예제를 이용한 분류법 학습](d03.md) | [정우철](https://www.facebook.com/juczest)        |
 |Part III-4    |12/02/2014  |Chapter 11 Genetic Algorithms |[이성호](https://www.facebook.com/jaruvet)               |
 |              |            |(보강B) 선형대수 (1시간 30분) | [정동진](https://www.facebook.com/profile.php) |
 |Part III-5    |12/2/2014  |Chapter 12 Multiple Sequence Alignment (25분) |               |
