@@ -8,9 +8,9 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [part3-3 Chapter 7~9, 2장 - 2014.11.25](doc/part3/d03.md)
-- [후기 - 2014.11.19](doc/afterSchool.md)
-- [방문자 지표 - 2014.11.25](doc/analytics.md)
+- [part3-3 Chapter 7~9, 2장 - 141125](doc/part3/d03.md)
+- [후기 - 141119](doc/afterSchool.md)
+- [방문자 지표 - 141125](doc/analytics.md)
 
 ### 링크
 - [facebook ](https://www.facebook.com/notes/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8A%A4%ED%95%80/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-bioinformatics-%EA%B8%B0%EC%B4%88/566279330148620)
