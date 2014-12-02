@@ -8,7 +8,7 @@
 - 장소 : 토즈 강남점/타워점
 
 ### 최신글
-- [part3-3 Chapter 7,8,9, 2장 - 141125](doc/part3/d03.md)
+- [part3-3 Chapter 11, 보강B 선형대수  - 141202](doc/part3/d04.md)
 - [후기 - 141126](doc/afterSchool.md)
 - [방문자 지표 - 141125](doc/analytics.md)
 
