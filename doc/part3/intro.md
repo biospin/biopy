@@ -19,37 +19,37 @@
 |              |            |[2장. 실제 예제를 이용한 분류법 학습](d03.md) | [정우철](https://www.facebook.com/juczest)        |
 |Part III-4    |12/02/2014  |[Chapter 11 Genetic Algorithms](d04.md) |[이성호](https://www.facebook.com/jaruvet)               |
 |              |            |[(보강B) 선형대수](d04.md) | [정동진](https://www.facebook.com/profile.php) |
-|Part III-5    |12/2/2014  |Chapter 12 Multiple Sequence Alignment (25분) |               |
-|              |            |(Bio-부교재3)Chapter 13 Gapped Alignments |         |
+|Part III-5    |12/09/2014  |Chapter 12 Multiple Sequence Alignment  |[심상진](https://www.facebook.com/sangjin.sim.7)               |
+|              |            |(Bio-부교재3)Chapter 13 Gapped Alignments |[김덕근](https://www.facebook.com/dklovesky)         |
 |              |            |Chapter 23 Numerical Sequence Alignment | [박성진](https://www.facebook.com/oscarsjpark)        |
-|              |            |(보강C) Google Prediction API & Google Bigquery & Google Genomics API  |         |
+|              |            |(보강C) Google Prediction API & Google Bigquery & Google Genomics API  |[김가경](https://www.facebook.com/irobii) |
 |Part III-6    |12/16/2014  |Chapter 10 Hidden Markov Model (1시간 10분) | [김승욱](https://www.facebook.com/encaion)              |
-|              |            |(보강C) CRF (1시간 10분) |              |
+|              |            |(보강C) CRF (1시간 10분) |[김무성](https://www.facebook.com/moodern) |
 |Part III-7    |12/23/2014 |Chapter 16 Measuring Complexity  |[조정희](https://www.facebook.com/jeonghee.jo.37)  |
 |              |           |Chapter 17 Clustering   | [김덕태](https://www.facebook.com/deogtae) |
 |              |           |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
-|Part III-8    |12/30/2014  |Chapter 14 Trees  |심상진  |
+|Part III-8    |12/30/2014  |Chapter 14 Trees  |  |
 |              |            |Chapter 15 Text Mining  | 곽두환 |
 |              |            |4장. 주제 모델링   |양영은  |
 |Part III-9    |1/06/2015  |5장. 분류 I: 형편없는 답변 감지   | 이선영  |
-|              |           |(보강E) galaxy (일정 미정) | 김가경 |
-|Part III-10    |1/13/2015  |Chapter 18 Self-Organizing Maps  | 윤영우  |
-|               |           |(보강F) 딥러닝 (1시간 30분)  |   |
+|              |           |(보강E) galaxy | 김가경 |
+|Part III-10    |1/13/2015  |Chapter 18 Self-Organizing Maps  | 조강익  |
+|               |           |(보강F) 딥러닝 - 미정  |   |
 |Part III-11    |1/20/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
-|               |           |Chapter 21 Fourier Transforms  | 조강익  |
-|               |           |(보강G) 정보이론 (1시간 30분)  | 김권현 |
-|Part III-12    |1/27/2015  |7장. 회귀: 추천 (ML-부교재4)  | 김주영 |
+|               |           |(보강) 정보이론 (1시간 30분)  | 김권현 |
+|Part III-12    |1/27/2015  |Chapter 21 Fourier Transforms  | 윤영우  |
 |               |           |(보강H) Microarray analysis using R (일정 미정)    |  |
-|Part III-13    |2/3/2015  |Chapter 22 Correlations |  |
-|               |          |8장. 회귀: 향상된 추천 (ML-부교재4)  | 김수진  |
+|               |           |7장. 회귀: 추천 (ML-부교재4)  | 김주영 |
+|Part III-13    |2/3/2015  |8장. 회귀: 향상된 추천 (ML-부교재4)  | 김수진  |
 |               |          |9장. 분류III: 음악 장르 분류 | 최명규 |
-|Part III-14    | 2/10/2015 |Chapter 19 Principal Component Analysis  |  |
-|               |           |Chapter 20 Species Identification| |
-|               |           |11장. 차원 수 줄이기 |  |
-|Part III-15    | 2/17/2015 |(보강) 네트워크분석 | 노규형 |
-|               |           |네트워크 관련 논문 Review |  |
-|Part III-16    |           |12장.(조금 더 큰)빅데이터  |  |
-|               |           |(보강J) 빅데이터 처리 실습 |     |
+|               |          |(Bio-부교재3)Chapter 20 Species Identification | 김다찬 |
+|Part III-14    | 2/10/2015 |(Bio-부교재3)Chapter 19 Principal Component Analysis  |  |
+|               |           |(ML-부교재4)11장. 차원 수 줄이기| |
+|               |           |(보강H) Microarray analysis using R (ML관점) |  |
+|#### ###-##    | 2/10/2015 | 설휴강 |  |
+|Part III-15    |           |(보강I) 네트워크분석  |  |
+|               |           |(ML-부교재4)12장.(조금 더 큰)빅데이터  |     |
+|               |           |(보강J) 빅데이터 처리 실습 - 일정 미정 | 노규형   |
 
 ## 목차 Bio-부교재 3
  [Python for Bioinformatics](http://www.amazon.com/Python-Bioinformatics-Bartlett-Biomedical-Informatics/dp/0763751863)
