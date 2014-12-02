@@ -52,37 +52,35 @@
 |               |           |(보강J) 빅데이터 처리 실습 - 일정 미정 | 노규형   |
 
 ## 목차 : [Python for Bioinformatics](http://www.amazon.com/Python-Bioinformatics-Bartlett-Biomedical-Informatics/dp/0763751863)
-
- 1. Introduction
- [2. NumPy and SciPy](d01.md)
- [3. Image Manipulation](d01.md)
- 4. Akando and Dancer Modules
- [5. Statistics](d02.md)
- 6. Parsing DNA Data Files
- [7. Sequence Alignment](d03.md)
- [8. Dynamic Programming](d03.md)
- [9. Tandem Repeats](d03.md)
- 10. Hidden Markov Models
- [11. Genetic Algorithms](d04.md)
- 12. Multiple Sequence Alignment
- 13. Gapped Alignments
- 14. Trees
- 15. Text Mining
- 16. Complexity
- 17. Clustering
- 18. Self-Organizing Maps
- 19. Principals
- 20. Species Identification
- 21. Fourier Transforms and Correlations
- 22. Correlations
- 23. Numerical Sequence Alignment
- 24. Gene Expression Array Files
- 25. Spot Finding and Measurement
- 26. Spreadsheet Arrays and Displaying the Data
- 27. Applications with Expression Arrays
+1. Introduction
+[2. NumPy and SciPy](d01.md)
+[3. Image Manipulation](d01.md)
+4. Akando and Dancer Modules
+[5. Statistics](d02.md)
+6. Parsing DNA Data Files
+[7. Sequence Alignment](d03.md)
+[8. Dynamic Programming](d03.md)
+[9. Tandem Repeats](d03.md)
+10. Hidden Markov Models
+[11. Genetic Algorithms](d04.md)
+12. Multiple Sequence Alignment
+13. Gapped Alignments
+14. Trees
+15. Text Mining
+16. Complexity
+17. Clustering
+18. Self-Organizing Maps
+19. Principals
+20. Species Identification
+21. Fourier Transforms and Correlations
+22. Correlations
+23. Numerical Sequence Alignment
+24. Gene Expression Array Files
+25. Spot Finding and Measurement
+26. Spreadsheet Arrays and Displaying the Data
+27. Applications with Expression Arrays
 
 ## 목차 : [Building Machine Learning Systems with Python(한국어판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788960775367&orderClick=JAK)
-
  [1장. 기계 학습 파이썬으로 시작하기](d01.md)
  [2장. 실제 예제를 이용한 분류법 학습](d03.md)
  3장. 군집화: 관련된 게시물 찾기
