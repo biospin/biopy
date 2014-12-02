@@ -63,7 +63,7 @@
  [8. Dynamic Programming](d03.md)
  [9. Tandem Repeats](d03.md)
  10. Hidden Markov Models
- 11. Genetic Algorithms
+ [11. Genetic Algorithms](d04.md)
  12. Multiple Sequence Alignment
  13. Gapped Alignments
  14. Trees
