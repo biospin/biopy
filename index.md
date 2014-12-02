@@ -3,9 +3,9 @@
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
 ### 파이썬을 이용한 Bioinformatics 기초 part 3
-- 2014년 11월 11일 - 2015년 2월 17일 (변경 가능)
+- 2014년 11월 11일 - 2015년 2월 17일
 - 매주 화요일 저녁. 7시 30분~9시 30분/10시
-- 장소 : 토즈 강남점/타워점
+- 장소 : 토즈 타워점
 
 ### 최신글
 - [part3-4 Chapter 11, 보강B 선형대수  - 141202](doc/part3/d04.md)
