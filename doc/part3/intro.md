@@ -39,8 +39,8 @@
 |               |           |(보강) 정보이론 (1시간 30분)  | 김권현 |
 |Part III-12    |1/27/2015  |Chapter 21 Fourier Transforms  | 윤영우  |
 |               |           |(보강H) Microarray analysis using R (일정 미정)    |  |
-|               |           |7장. 회귀: 추천 (ML-부교재4)  | 김주영 |
-|Part III-13    |2/3/2015  |8장. 회귀: 향상된 추천 (ML-부교재4)  | 김수진  |
+|               |           |7장. 회귀: 추천 | 김주영 |
+|Part III-13    |2/3/2015  |8장. 회귀: 향상된 추천 | 김수진  |
 |               |          |9장. 분류III: 음악 장르 분류 | 최명규 |
 |               |          |Chapter 20 Species Identification | 김다찬 |
 |Part III-14    | 2/10/2015 |Chapter 19 Principal Component Analysis  |  |
