@@ -20,7 +20,7 @@
 |Part III-4    |12/02/2014  |[Chapter 11 Genetic Algorithms](d04.md) |[이성호](https://www.facebook.com/jaruvet)               |
 |              |            |[(보강B) 선형대수](d04.md) | [정동진](https://www.facebook.com/profile.php) |
 |Part III-5    |12/09/2014  |Chapter 12 Multiple Sequence Alignment  |[심상진](https://www.facebook.com/sangjin.sim.7)               |
-|              |            |(Bio-부교재3)Chapter 13 Gapped Alignments |[김덕근](https://www.facebook.com/dklovesky)         |
+|              |            |Chapter 13 Gapped Alignments |[김덕근](https://www.facebook.com/dklovesky)         |
 |              |            |Chapter 23 Numerical Sequence Alignment | [박성진](https://www.facebook.com/oscarsjpark)        |
 |              |            |(보강C) Google Prediction API & Google Bigquery & Google Genomics API  |[김가경](https://www.facebook.com/irobii) |
 |Part III-6    |12/16/2014  |Chapter 10 Hidden Markov Model (1시간 10분) | [김승욱](https://www.facebook.com/encaion)              |
@@ -42,13 +42,13 @@
 |               |           |7장. 회귀: 추천 (ML-부교재4)  | 김주영 |
 |Part III-13    |2/3/2015  |8장. 회귀: 향상된 추천 (ML-부교재4)  | 김수진  |
 |               |          |9장. 분류III: 음악 장르 분류 | 최명규 |
-|               |          |(Bio-부교재3)Chapter 20 Species Identification | 김다찬 |
-|Part III-14    | 2/10/2015 |(Bio-부교재3)Chapter 19 Principal Component Analysis  |  |
-|               |           |(ML-부교재4)11장. 차원 수 줄이기| |
+|               |          |Chapter 20 Species Identification | 김다찬 |
+|Part III-14    | 2/10/2015 |Chapter 19 Principal Component Analysis  |  |
+|               |           |11장. 차원 수 줄이기| |
 |               |           |(보강H) Microarray analysis using R (ML관점) |  |
 |#### ###-##    | 2/10/2015 | 설휴강 |  |
 |Part III-15    |           |(보강I) 네트워크분석  |  |
-|               |           |(ML-부교재4)12장.(조금 더 큰)빅데이터  |     |
+|               |           |12장.(조금 더 큰)빅데이터  |     |
 |               |           |(보강J) 빅데이터 처리 실습 - 일정 미정 | 노규형   |
 
 ## 목차 Bio-부교재 3
