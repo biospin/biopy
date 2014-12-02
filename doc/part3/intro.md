@@ -18,7 +18,7 @@
 |              |            |[Chapter 9 Tandem Repeat](d03.md) | [강양제](https://www.facebook.com/yangjae.kang.1)             |
 |              |            |[2장. 실제 예제를 이용한 분류법 학습](d03.md) | [정우철](https://www.facebook.com/juczest)        |
 |Part III-4    |12/02/2014  |[Chapter 11 Genetic Algorithms](d04.md) |[이성호](https://www.facebook.com/jaruvet)               |
-|              |            |[(보강B) 선형대수 (1시간 30분)](d04.md) | [정동진](https://www.facebook.com/profile.php) |
+|              |            |[(보강B) 선형대수](d04.md) | [정동진](https://www.facebook.com/profile.php) |
 |Part III-5    |12/2/2014  |Chapter 12 Multiple Sequence Alignment (25분) |               |
 |              |            |(Bio-부교재3)Chapter 13 Gapped Alignments |         |
 |              |            |Chapter 23 Numerical Sequence Alignment | [박성진](https://www.facebook.com/oscarsjpark)        |
