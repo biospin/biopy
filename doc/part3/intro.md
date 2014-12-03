@@ -51,7 +51,8 @@
 |               |           |12장.(조금 더 큰)빅데이터  |     |
 |               |           |(보강J) 빅데이터 처리 실습 - 일정 미정 | 노규형   |
 
-## 목차 : [Python for Bioinformatics](http://www.amazon.com/Python-Bioinformatics-Bartlett-Biomedical-Informatics/dp/0763751863)
+## 목차 : Python for Bioinformatics
+[Python for Bioinformatics](http://www.amazon.com/Python-Bioinformatics-Bartlett-Biomedical-Informatics/dp/0763751863)
 1. Introduction
 [2. NumPy and SciPy](d01.md)
 [3. Image Manipulation](d01.md)
@@ -80,7 +81,8 @@
 26. Spreadsheet Arrays and Displaying the Data
 27. Applications with Expression Arrays
 
-## 목차 : [Building Machine Learning Systems with Python(한국어판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788960775367&orderClick=JAK)
+## 목차 : Building Machine Learning Systems with Python(한국어판)
+ [Building Machine Learning Systems with Python(한국어판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788960775367&orderClick=JAK)
  [1장. 기계 학습 파이썬으로 시작하기](d01.md)
  [2장. 실제 예제를 이용한 분류법 학습](d03.md)
  3장. 군집화: 관련된 게시물 찾기
