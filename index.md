@@ -9,7 +9,7 @@
 
 ### 최신글
 - [part3-4 Chapter 11, 보강B 선형대수  - 141202](doc/part3/d04.md)
-- [후기 - 141203](doc/afterSchool.md)
+- [후기 - 141204](doc/afterSchool.md)
 - [방문자 지표 - 141203](doc/analytics.md)
 
 ### 링크
