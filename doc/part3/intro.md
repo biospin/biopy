@@ -24,7 +24,7 @@
 |              |            |Chapter 23 Numerical Sequence Alignment | [박성진](https://www.facebook.com/oscarsjpark)        |
 |              |            |(보강C) Google Prediction API & Google Bigquery & Google Genomics API  |[김가경](https://www.facebook.com/irobii) |
 |Part III-6    |12/16/2014  |Chapter 10 Hidden Markov Model (1시간 10분) | [김승욱](https://www.facebook.com/encaion)              |
-|              |            |(보강C) CRF (1시간 10분) |[김무성](https://www.facebook.com/moodern) |
+|              |            |(보강D) CRF (1시간 10분) |[김무성](https://www.facebook.com/moodern) |
 |Part III-7    |12/23/2014 |Chapter 16 Measuring Complexity  |[조정희](https://www.facebook.com/jeonghee.jo.37)  |
 |              |           |Chapter 17 Clustering   | [김덕태](https://www.facebook.com/deogtae) |
 |              |           |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
@@ -36,7 +36,7 @@
 |Part III-10    |1/13/2015  |Chapter 18 Self-Organizing Maps  | 조강익  |
 |               |           |(보강F) 딥러닝 - 미정  |   |
 |Part III-11    |1/20/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
-|               |           |(보강) 정보이론 (1시간 30분)  | 김권현 |
+|               |           |(보강G) 정보이론 (1시간 30분)  | 김권현 |
 |Part III-12    |1/27/2015  |Chapter 21 Fourier Transforms  | 윤영우  |
 |               |           |(보강H) Microarray analysis using R (일정 미정)    |  |
 |               |           |7장. 회귀: 추천 | 김주영 |
