@@ -1,0 +1,16 @@
+#!/bin/sh
+#$ -N fastqccccc
+#$ -S /bin/sh
+##$ -o $JOB_ID.$JOB_NAME.o
+##$ -e $JOB_ID.$JOB_NAME.e
+##$ -q all.q    ## for cloud.biopython.net
+##$ -pe make 1
+#$ -cwd
+
+SAMPLE=$1
+sickle se -f ${SAMPLE}/raw/${SAMPLE}.fastq.gz -t illumina \
+	-o ${SAMPLE}/fastq/${SAMPLE}.trimmed.fastq;
+seqret -auto -sequence ${SAMPLE}/fastq/${SAMPLE}.trimmed.fastq -snucleotide1 -sformat1 fastq-illumina \
+       	-outseq ${SAMPLE}/fastq/${SAMPLE}.fastq -osformat2 fastq-sanger;
+gzip ${SAMPLE}/fastq/${SAMPLE}.fastq;
+rm ${SAMPLE}/fastq/${SAMPLE}.trimmed.fastq;

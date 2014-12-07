@@ -8,8 +8,9 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
+- [바이오스핀의 모험 – NGS 실습편 - 141206](doc/part3/ngs02.md)
 - [part3-4 Chapter 11, 보강B 선형대수  - 141202](doc/part3/d04.md)
-- [후기 - 141204](doc/afterSchool.md)
+- [후기 - 141206](doc/afterSchool.md)
 - [방문자 지표 - 141203](doc/analytics.md)
 
 ### 링크
