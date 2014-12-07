@@ -63,6 +63,7 @@
   * [바이오 심화 NGS](doc/part2/d16.md)
   * [확률 및 통계 기초](doc/part3/d02.md)
   * [선형대수](doc/part3/d04.md)
+  * [NGS 실습편](doc/part3/ngs02.md)
 
 [스터디후기](doc/afterSchool.md)
 
