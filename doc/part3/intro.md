@@ -64,8 +64,8 @@
 [9. Tandem Repeats](d03.md)
 10. Hidden Markov Models
 [11. Genetic Algorithms](d04.md)
-12. Multiple Sequence Alignment
-13. Gapped Alignments
+[12. Multiple Sequence Alignment](d05.md)
+[13. Gapped Alignments](d05.md)
 14. Trees
 15. Text Mining
 16. Complexity
@@ -75,7 +75,7 @@
 20. Species Identification
 21. Fourier Transforms and Correlations
 22. Correlations
-23. Numerical Sequence Alignment
+[23. Numerical Sequence Alignment](d05.md)
 24. Gene Expression Array Files
 25. Spot Finding and Measurement
 26. Spreadsheet Arrays and Displaying the Data
