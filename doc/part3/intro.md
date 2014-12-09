@@ -65,7 +65,7 @@
 10. Hidden Markov Models
 [11. Genetic Algorithms](d04.md)
 12. Multiple Sequence Alignment
-[13. Gapped Alignments](d05.md)
+13. Gapped Alignments
 14. Trees
 15. Text Mining
 16. Complexity
