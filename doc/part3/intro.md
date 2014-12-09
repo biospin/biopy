@@ -19,7 +19,7 @@
 |              |            |[2장. 실제 예제를 이용한 분류법 학습](d03.md) | [정우철](https://www.facebook.com/juczest)        |
 |Part III-4    |12/02/2014  |[Chapter 11 Genetic Algorithms](d04.md) |[이성호](https://www.facebook.com/jaruvet)               |
 |              |            |[(보강B) 선형대수](d04.md) | [정동진](https://www.facebook.com/profile.php) |
-|Part III-5    |12/09/2014  |[Chapter 12 Multiple Sequence Alignment](d05.md)  |[심상진](https://www.facebook.com/sangjin.sim.7)               |
+|Part III-5    |12/09/2014  |Chapter 12 Multiple Sequence Alignment  |                |
 |              |            |[Chapter 13 Gapped Alignments](d05.md) |[김덕근](https://www.facebook.com/dklovesky)         |
 |              |            |[Chapter 23 Numerical Sequence Alignment](d05.md) | [박성진](https://www.facebook.com/oscarsjpark)        |
 |              |            |[(보강C) 최적화](d05.md) |[심상진](https://www.facebook.com/sangjin.sim.7) |
@@ -64,7 +64,7 @@
 [9. Tandem Repeats](d03.md)
 10. Hidden Markov Models
 [11. Genetic Algorithms](d04.md)
-[12. Multiple Sequence Alignment](d05.md)
+12. Multiple Sequence Alignment
 [13. Gapped Alignments](d05.md)
 14. Trees
 15. Text Mining

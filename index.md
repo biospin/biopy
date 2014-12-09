@@ -9,7 +9,7 @@
 
 ### 최신글
 - [바이오스핀의 모험 – NGS 실습편 - 141206](doc/part3/ngs02.md)
-- [part3-5 Chapter 12,13,23, 보강 최적화 - 141209](doc/part3/d04.md)
+- [part3-5 Chapter 13,23, 보강 최적화 - 141209](doc/part3/d04.md)
 - [후기 - 141206](doc/afterSchool.md)
 - [방문자 지표 - 141203](doc/analytics.md)
 
