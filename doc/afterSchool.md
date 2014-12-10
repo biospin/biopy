@@ -1,5 +1,12 @@
 ![뒷풀이](img/a141202.jpg)
 
+## PART III - 5회차
+하루 지난 스터디 후기를 이제야 남깁니다. Sungjin Park 님이 준비해주신 23장 Sequence Alignment 스터디에서는 오랫만에 들어보는 BLOSUM부터 시작하여 Hydrophobicity, GC content, numerical representation, alignment, hurst exponent, chaos representation 등에 대해 이야기해주셨습니다. 예제에 나와있는 코드 중에 문제가 있는 것들은 어떻게 바꿔야 하는지도 알려주셨구요. 실제 단백질 접힘 연구를 하셨던 경험이 많이 묻어나오는 설명이었습니다. 특히 각 아미노산의 성질을 비유로 설명해주시는 부분들이 좋았고 왜 이러한 일을 하는지 배경 설명을 해주신 것도 좋았습니다.
+중간 중간 김무성님이 적절한 비유로 이해를 도와주신 부분도 큽니다. 비유의 달인! 생각보다 첫 강의는 빠르게 지나갔습니다. 추가로 올려주신 게시물에서 이야기해주셨지만 local / global alignment의 쓰임새, 어떤 경우에 사용한다에 대한 설명이 좋았습니다. 본 강의 준비도 열심히 하셨지만 경험 없이는 알기 어려운 숨은 지식들을 많이 던져주셔서 잘 받았습니다.
+그리고 끝나고 돌아가는 길에 이러한 sequence alignment와 요즘의 NGS 에서의 alignment의 차이점에 대해 이야기를 나눈 것도 재미있었습니다. NGS에서의 alignment는 reference genome에 short / long read를 mapping을 지칭하는 것에 가깝다는 의견을 나누었습니다.
+다 좋았는데... 아쉽게도 뒷풀이는 없던 스터디였습니다. ^^
+by 노규형_141210
+
 ## NGS 실습편(2)
 바이오스핀의모험‬ 2회차 후기입니다.
 3시부터 6시가 훌쩍 넘도록 1부 모임이 있었고,
