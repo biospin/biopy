@@ -21,9 +21,9 @@
 |              |            |[(보강B) 선형대수](d04.md) | [정동진](https://www.facebook.com/profile.php) |
 |Part III-5    |12/09/2014  |[Chapter 23 Numerical Sequence Alignment](d05.md) | [박성진](https://www.facebook.com/oscarsjpark)        |
 |              |            |[(보강C) 최적화](d05.md) |[심상진](https://www.facebook.com/sangjin.sim.7) |
-|Part III-6    |12/16/2014  |Chapter 10 Hidden Markov Model| [김승욱](https://www.facebook.com/encaion)              |
-|              |            |Chapter 12 Multiple Sequence Alignment  |[심상진](https://www.facebook.com/sangjin.sim.7) |
-|              |            |Chapter 13 Gapped Alignments |[김덕근](https://www.facebook.com/dklovesky)         |
+|Part III-6    |12/16/2014  |[Chapter 10 Hidden Markov Model](d06.md)| [김승욱](https://www.facebook.com/encaion)              |
+|              |            |[Chapter 12 Multiple Sequence Alignment](d06.md)  |[심상진](https://www.facebook.com/sangjin.sim.7) |
+|              |            |[Chapter 13 Gapped Alignments](d06.md) |[김덕근](https://www.facebook.com/dklovesky)         |
 |Part III-7    |12/23/2014 |Chapter 16 Measuring Complexity  |[조정희](https://www.facebook.com/jeonghee.jo.37)  |
 |              |           |(보강D) CRF(Conditional random field)   | [김무성](https://www.facebook.com/moodern)  |
 |Part III-8    |12/30/2014 |Chapter 17 Clustering   | [김덕태](https://www.facebook.com/deogtae) |
@@ -61,10 +61,10 @@
 [7. Sequence Alignment](d03.md)
 [8. Dynamic Programming](d03.md)
 [9. Tandem Repeats](d03.md)
-10. Hidden Markov Models
+[10. Hidden Markov Models](d06.md)
 [11. Genetic Algorithms](d04.md)
-12. Multiple Sequence Alignment
-13. Gapped Alignments
+[12. Multiple Sequence Alignment](d06.md)
+[13. Gapped Alignments](d06.md)
 14. Trees
 15. Text Mining
 16. Complexity
