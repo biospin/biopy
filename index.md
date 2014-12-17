@@ -9,7 +9,7 @@
 
 ### 최신글
 - [part3-6 Chapter10,12,13 - 141216](doc/part3/d06.md)
-- [후기 - 141210](doc/afterSchool.md)
+- [후기 - 141218](doc/afterSchool.md)
 - [방문자 지표 - 141203](doc/analytics.md)
 
 ### 링크
