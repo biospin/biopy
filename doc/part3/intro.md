@@ -24,8 +24,8 @@
 |Part III-6    |12/16/2014  |[Chapter 10 Hidden Markov Model](d06.md)| [김승욱](https://www.facebook.com/encaion)              |
 |              |            |[Chapter 12 Multiple Sequence Alignment](d06.md)  |[심상진](https://www.facebook.com/sangjin.sim.7) |
 |              |            |[Chapter 13 Gapped Alignments](d06.md) |[김덕근](https://www.facebook.com/dklovesky)         |
-|Part III-7    |12/23/2014 |Chapter 16 Measuring Complexity  |[조정희](https://www.facebook.com/jeonghee.jo.37)  |
-|              |           |(보강D) CRF(Conditional random field)   | [김무성](https://www.facebook.com/moodern)  |
+|Part III-7    |12/23/2014 |[Chapter 16 Measuring Complexity](d07.md)  |[조정희](https://www.facebook.com/jeonghee.jo.37)  |
+|              |           |[보강 CRF Conditional random field](d07.md)   | [김무성](https://www.facebook.com/moodern)  |
 |Part III-8    |12/30/2014 |Chapter 17 Clustering   | [김덕태](https://www.facebook.com/deogtae) |
 |              |           |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
 |              |           |4장. 주제 모델링   |양영은  |
@@ -67,7 +67,7 @@
 [13. Gapped Alignments](d06.md)
 14. Trees
 15. Text Mining
-16. Complexity
+[16. Complexity](d07.md)
 17. Clustering
 18. Self-Organizing Maps
 19. Principals
