@@ -69,7 +69,7 @@
 14. Trees
 15. Text Mining
 [16. Complexity](d07.md)
-17. Clustering
+[17. Clustering](d08.md)
 18. Self-Organizing Maps
 19. Principals
 20. Species Identification
