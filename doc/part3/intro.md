@@ -28,12 +28,12 @@
 |              |           |[보강 CRF Conditional random field](d07.md)   | [김무성](https://www.facebook.com/moodern)  |
 |Part III-8    |12/30/2014 |Chapter 17 Clustering   | [김덕태](https://www.facebook.com/deogtae) |
 |              |           |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
-|              |           |4장. 주제 모델링   |양영은  |
-|Part III-9    |1/06/2014  |Chapter 14 Trees  |  |
+|Part III-9    |1/06/2014   | 4장. 주제 모델링   |양영은  |
+|              |            |Chapter 14 Trees  | 서형석 |
 |              |            |Chapter 15 Text Mining  | 곽두환 |
-|              |            |5장. 분류 I: 형편없는 답변 감지   | 이선영  |
-|Part III-10    |1/13/2015  |Chapter 18 Self-Organizing Maps  | 조강익  |
-|               |           |(보강F) 딥러닝 - 미정  |   |
+|Part III-10    |1/13/2015  |5장. 분류 I: 형편없는 답변 감지   | 조근영   |
+|               |           |Chapter 18 Self-Organizing Maps  | 조강익  |
+|               |           |(보강F) 딥러닝   | 김무성   |
 |Part III-11    |1/20/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
 |               |           |(보강G) 정보이론 (1시간 30분)  | 김권현 |
 |Part III-12    |1/27/2015  |Chapter 21 Fourier Transforms  | 윤영우  |
