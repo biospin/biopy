@@ -1,4 +1,4 @@
-![대문](doc/img/d141223.jpg)
+![대문](doc/img/d141230.jpg)
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
@@ -8,7 +8,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [part3-7 Chapter16 ,CRF - 141223](doc/part3/d07.md)
+- [ revisition mRna tailing - 141230](doc/part3/d08.md)
 - [후기 - 141224](doc/afterSchool.md)
 - [방문자 지표 - 141203](doc/analytics.md)
 
