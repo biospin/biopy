@@ -26,7 +26,7 @@
 |              |            |[Chapter 13 Gapped Alignments](d06.md) |[김덕근](https://www.facebook.com/dklovesky)         |
 |Part III-7    |12/23/2014 |[Chapter 16 Measuring Complexity](d07.md)  |[조정희](https://www.facebook.com/jeonghee.jo.37)  |
 |              |           |[보강 CRF Conditional random field](d07.md)   | [김무성](https://www.facebook.com/moodern)  |
-|Part III-8    |12/30/2014 |Chapter 17 Clustering   | [김덕태](https://www.facebook.com/deogtae) |
+|Part III-8    |12/30/2014 |[Chapter 17 Clustering](d08.md)   | [김덕태](https://www.facebook.com/deogtae) |
 |              |           |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
 |              |           |[놀러온손님 tail-seq](d08.md) |[장혜식](https://www.facebook.com/hyeshik)  |
 |Part III-9    |1/06/2014   | 4장. 주제 모델링   |양영은  |
