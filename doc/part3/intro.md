@@ -28,13 +28,11 @@
 |              |           |[보강 CRF Conditional random field](d07.md)   | [김무성](https://www.facebook.com/moodern)  |
 |Part III-8    |12/30/2014 |[Chapter 17 Clustering](d08.md)   | [김덕태](https://www.facebook.com/deogtae) |
 |              |           |[놀러온손님 tail-seq](d08.md) |[장혜식](https://www.facebook.com/hyeshik)  |
-|Part III-9    |1/06/2014   | 4장. 주제 모델링   |양영은  |
-|              |            |Chapter 14 Trees  | 서형석 |
+|Part III-9    |1/06/2014   |Chapter 14 Trees  | 서형석 |
 |              |            |Chapter 15 Text Mining  | 곽두환 |
-|              |            |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
-|Part III-10    |1/13/2015  |5장. 분류 I: 형편없는 답변 감지   | 조근영   |
-|               |           |Chapter 18 Self-Organizing Maps  | 조강익  |
-|               |           |(보강F) 딥러닝   | 김무성   |
+|Part III-10    |1/13/2015  |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
+|               |           |4장. 주제 모델링   |양영은  |
+|               |           |5장. 분류 I: 형편없는 답변 감지   | 조근영   |
 |Part III-11    |1/20/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
 |               |           |(보강G) 정보이론 (1시간 30분)  | 김권현 |
 |Part III-12    |1/27/2015  |Chapter 21 Fourier Transforms  | 윤영우  |
@@ -47,7 +45,9 @@
 |               |           |11장. 차원 수 줄이기| |
 |               |           |(보강H) Microarray analysis using R (ML관점) |  |
 |#### ###-##    | 2/17/2015 | 설휴강 |  |
-|Part III-15    |           |(보강I) 네트워크분석  |  |
+|Part III-15    | 2/24/2015 |(보강F) 딥러닝   | 김무성   |
+|               |           |Chapter 18 Self-Organizing Maps  | 조강익  |
+|Part III-16    |           |(보강I) 네트워크분석  |  |
 |               |           |12장.(조금 더 큰)빅데이터  |     |
 |               |           |(보강J) 빅데이터 처리 실습 - 일정 미정 | 노규형   |
 
@@ -56,7 +56,7 @@
 1. Introduction
 [2. NumPy and SciPy](d01.md)
 [3. Image Manipulation](d01.md)
-4. Akando and Dancer Modules
+[4. Akando and Dancer Modules](d01.md)
 [5. Statistics](d02.md)
 6. Parsing DNA Data Files
 [7. Sequence Alignment](d03.md)
