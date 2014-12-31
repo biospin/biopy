@@ -9,7 +9,7 @@
 
 ### 최신글
 - [chap17 Clustering, revisition mRna tailing - 141230](doc/part3/d08.md)
-- [후기 - 141224](doc/afterSchool.md)
+- [후기 - 141231](doc/afterSchool.md)
 - [방문자 지표 - 141203](doc/analytics.md)
 
 ### 링크
