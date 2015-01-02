@@ -28,8 +28,8 @@
 |              |           |[보강 CRF Conditional random field](d07.md)   | [김무성](https://www.facebook.com/moodern)  |
 |Part III-8    |12/30/2014 |[Chapter 17 Clustering](d08.md)   | [김덕태](https://www.facebook.com/deogtae) |
 |              |           |[놀러온손님 tail-seq](d08.md) |[장혜식](https://www.facebook.com/hyeshik)  |
-|Part III-9    |1/06/2014   |Chapter 14 Trees  | 서형석 |
-|              |            |Chapter 15 Text Mining  | 곽두환 |
+|Part III-9    |1/06/2014   |[Chapter 14 Trees](d09.md)  | [서형석](https://www.facebook.com/hyungseoks) |
+|              |            |[Chapter 15 Text Mining](d09.md)  | [곽두환](https://www.facebook.com/kozazz) |
 |Part III-10    |1/13/2015  |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
 |               |           |4장. 주제 모델링   |양영은  |
 |               |           |5장. 분류 I: 형편없는 답변 감지   | 조근영   |
