@@ -124,7 +124,7 @@ def IndicWords( wcm, voracity, pdoc, ndoc, mincount=5 ):
     return ag, scores
 
 def StemSlice(wrd):
-    suff=['ing','ings','ed'.'ly','ance','ence','s','ize','le','er','ers']
+    suff=['ing','ings','ed','ly','ance','ence','s','ize','le','er','ers']
     nwrd=wrd#newword
     for i in suff:
         if i==nwrd[-len(i): ]:
