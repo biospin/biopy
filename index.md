@@ -8,7 +8,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [chap17 Clustering, revisition mRna tailing - 141230](doc/part3/d08.md)
+- [chap14 tree , chap14 text mining  - 150106](doc/part3/d09.md)
 - [후기 - 141231](doc/afterSchool.md)
 - [방문자 지표 - 141203](doc/analytics.md)
 
