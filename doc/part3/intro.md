@@ -66,8 +66,8 @@
 [11. Genetic Algorithms](d04.md)
 [12. Multiple Sequence Alignment](d06.md)
 [13. Gapped Alignments](d06.md)
-14. Trees
-15. Text Mining
+[14. Trees](d09.md)
+[15. Text Mining](d09.md)
 [16. Complexity](d07.md)
 [17. Clustering](d08.md)
 18. Self-Organizing Maps
