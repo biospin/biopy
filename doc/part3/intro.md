@@ -32,15 +32,14 @@
 |              |            |[Chapter 15 Text Mining](d09.md)  | [곽두환](https://www.facebook.com/kozazz) |
 |Part III-10    |1/13/2015  |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
 |               |           |4장. 주제 모델링   |양영은  |
-|               |           |5장. 분류 I: 형편없는 답변 감지   | 조근영   |
-|Part III-11    |1/20/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
+|Part III-11    |1/20/2015  |5장. 분류 I: 형편없는 답변 감지   | [조근영](https://www.facebook.com/re4lfl0w)   |
 |               |           |(보강G) 정보이론 (1시간 30분)  | 김권현 |
-|Part III-12    |1/27/2015  |Chapter 21 Fourier Transforms  | 윤영우  |
-|               |           |(보강H) Microarray analysis using R (일정 미정)    |  |
+|Part III-12    |1/27/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
+|               |           |Chapter 18 Self-Organizing Maps  | 조강익 |
 |               |           |7장. 회귀: 추천 | 김주영 |
 |Part III-13    |2/3/2015  |8장. 회귀: 향상된 추천 | 김수진  |
 |               |          |9장. 분류III: 음악 장르 분류 | 최명규 |
-|               |          |Chapter 20 Species Identification | 김다찬 |
+|               |          |Chapter 21 Fourier Transforms  | 윤영우 |
 |Part III-14    | 2/10/2015 |Chapter 19 Principal Component Analysis  |  |
 |               |           |11장. 차원 수 줄이기| |
 |               |           |(보강H) Microarray analysis using R (ML관점) |  |
