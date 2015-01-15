@@ -30,8 +30,8 @@
 |              |           |[놀러온손님 tail-seq](d08.md) |[장혜식](https://www.facebook.com/hyeshik)  |
 |Part III-9    |1/06/2014   |[Chapter 14 Trees](d09.md)  | [서형석](https://www.facebook.com/hyungseoks) |
 |              |            |[Chapter 15 Text Mining](d09.md)  | [곽두환](https://www.facebook.com/kozazz) |
-|Part III-10    |1/13/2015  |3장. 군집화: 관련된 게시물 찾기 수  |[박태건](https://www.facebook.com/xarus01)  |
-|               |           |4장. 주제 모델링   |양영은  |
+|Part III-10    |1/13/2015  |[3장. 군집화: 관련된 게시물 찾기 수](d10.md)  |[박태건](https://www.facebook.com/xarus01)  |
+|               |           |[4장. 주제 모델링](d10.md)   |양영은  |
 |Part III-11    |1/20/2015  |5장. 분류 I: 형편없는 답변 감지   | [조근영](https://www.facebook.com/re4lfl0w)   |
 |               |           |(보강G) 정보이론 (1시간 30분)  | 김권현 |
 |Part III-12    |1/27/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
@@ -84,8 +84,8 @@
  [Building Machine Learning Systems with Python(한국어판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788960775367&orderClick=JAK)
  [1장. 기계 학습 파이썬으로 시작하기](d01.md)
  [2장. 실제 예제를 이용한 분류법 학습](d03.md)
- 3장. 군집화: 관련된 게시물 찾기
- 4장. 주제 모델링
+ [3장. 군집화: 관련된 게시물 찾기](d10.md)
+ [4장. 주제 모델링](d10.md)
  5장. 분류 I: 형편없는 답변 감지
  6장. 분류 II: 감성 분석
  7장. 회귀: 추천

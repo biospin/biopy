@@ -42,7 +42,7 @@
   * [Part III-7 Chapter 16, CRF](doc/part3/d07.md)
   * [Part III-8 Chapter 17, tail-seq](doc/part3/d08.md)
   * [Part III-9 Chapter 14 ,15](doc/part3/d09.md)
-  * [Part III-10](doc/part3/d10.md)
+  * [Part III-10 ML-3장, 4장](doc/part3/d10.md)
   * [Part III-11](doc/part3/d11.md)
   * [Part III-12](doc/part3/d12.md)
   * [Part III-13](doc/part3/d13.md)
