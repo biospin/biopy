@@ -65,6 +65,7 @@
   * [선형대수](doc/part3/d04.md)
   * [NGS 실습편](doc/advance/advance02.md)
   * [revisition mRna tailing](doc/part3/d08.md)
+  * [메타분석 & Kaggle실습](doc/advance/advance03.md)
 
 [스터디후기](doc/afterSchool.md)
 
