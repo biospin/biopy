@@ -5,7 +5,7 @@
 - 발표 자료 [meta analysis](http://goo.gl/8y50uM)
 - ![c3-11-01.png](/doc/img/c3-11-01.png)
 
-## 러신렁닝 실습
+## 머신러닝 실습
 - 발표자 :김승욱
 - 발표 자료 : [머신런닝실습자료](https://drive.google.com/file/d/0B-2yw-flkAy_SkxydDFGWk9PWEE/view)
 - ![c3-11-02.png](/doc/img/c3-11-02.png)

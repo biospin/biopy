@@ -3,14 +3,14 @@
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
 ### 파이썬을 이용한 Bioinformatics 기초 part 3
-- 2014년 11월 11일 - 2015년 2월 17일
+- 2014년 11월 11일 - 2015년 2월 24일
 - 매주 화요일 저녁. 7시 30분~9시 30분/10시
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [모험4 메타분석, 머신런닝실습 - 150117](doc/part3/d11.md)
-- [ML-3장 군집화 ,ML-4장 주제모델링 - 150113](doc/part3/d10.md)
-- [후기 - 150114](doc/afterSchool.md)
+- [후기 - 150117](doc/afterSchool.md)
+- [모험4 메타분석, 머신런닝실습 - 150117](doc/advance/advance03.md)
+- [ML-3장 군집화, ML-4장 주제모델링 - 150113](doc/part3/d10.md)
 
 ### 링크
 - [facebook ](https://www.facebook.com/notes/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8A%A4%ED%95%80/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-bioinformatics-%EA%B8%B0%EC%B4%88/566279330148620)

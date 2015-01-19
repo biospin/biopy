@@ -60,10 +60,10 @@
   * [라즈베리파이](doc/part2/d13.md)
   * [아두이노](doc/part2/d14.md)
   * [구글 앱 엔진 & 구글 컴퓨트 엔진](doc/part2/d15.md)
-  * [바이오 심화 NGS](doc/part2/d16.md)
+  * [바이오 심화 NGS](doc/advance/advance01.md)
   * [확률 및 통계 기초](doc/part3/d02.md)
   * [선형대수](doc/part3/d04.md)
-  * [NGS 실습편](doc/part3/ngs02.md)
+  * [NGS 실습편](doc/advance/advance02.md)
   * [revisition mRna tailing](doc/part3/d08.md)
 
 [스터디후기](doc/afterSchool.md)
