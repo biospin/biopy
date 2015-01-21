@@ -32,8 +32,8 @@
 |              |            |[Chapter 15 Text Mining](d09.md)  | [곽두환](https://www.facebook.com/kozazz) |
 |Part III-10    |1/13/2015  |[3장. 군집화: 관련된 게시물 찾기 수](d10.md)  |[박태건](https://www.facebook.com/xarus01)  |
 |               |           |[4장. 주제 모델링](d10.md)   |양영은  |
-|Part III-11    |1/20/2015  |5장. 분류 I: 형편없는 답변 감지   | [조근영](https://www.facebook.com/re4lfl0w)   |
-|               |           |(보강G) 정보이론 (1시간 30분)  | 김권현 |
+|Part III-11    |1/20/2015  |[5장. 분류 I: 형편없는 답변 감지](d11.md)   | [조근영](https://www.facebook.com/re4lfl0w)   |
+|               |           |[정보이론](d11.md)  | 김권현 |
 |Part III-12    |1/27/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
 |               |           |Chapter 18 Self-Organizing Maps  | 조강익 |
 |               |           |7장. 회귀: 추천 | 김주영 |
@@ -86,7 +86,7 @@
  [2장. 실제 예제를 이용한 분류법 학습](d03.md)
  [3장. 군집화: 관련된 게시물 찾기](d10.md)
  [4장. 주제 모델링](d10.md)
- 5장. 분류 I: 형편없는 답변 감지
+ [5장. 분류 I: 형편없는 답변 감지](d11.md)
  6장. 분류 II: 감성 분석
  7장. 회귀: 추천
  8장. 회귀: 향상된 추천
