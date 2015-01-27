@@ -8,6 +8,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
+- [18장 Self-organizing map](doc/part3/d12.md)
 - [5장 형편없는 답변 감지, 정보이론 - 150120](doc/part3/d11.md)
 - [후기 - 150117](doc/afterSchool.md)
 - [모험4 메타분석, 머신런닝실습 - 150117](doc/advance/advance03.md)
