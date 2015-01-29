@@ -31,7 +31,7 @@
 |Part III-9    |1/06/2014   |[Chapter 14 Trees](d09.md)  | [서형석](https://www.facebook.com/hyungseoks) |
 |              |            |[Chapter 15 Text Mining](d09.md)  | [곽두환](https://www.facebook.com/kozazz) |
 |Part III-10    |1/13/2015  |[3장. 군집화: 관련된 게시물 찾기 수](d10.md)  |[박태건](https://www.facebook.com/xarus01)  |
-|               |           |[4장. 주제 모델링](d10.md)   |양영은  |
+|               |           |[4장. 주제 모델링](d10.md)   |[양영은](https://www.facebook.com/lois.yang.39)  |
 |Part III-11    |1/20/2015  |[5장. 분류 I: 형편없는 답변 감지](d11.md)   | [조근영](https://www.facebook.com/re4lfl0w)   |
 |               |           |[정보이론](d11.md)  | [김권현](https://www.facebook.com/kh.kim.351) |
 |Part III-12    |1/27/2015  |[6장. 분류 II: 감성 분석](d12.md)   | [김슬](https://www.facebook.com/lexifdev) |
