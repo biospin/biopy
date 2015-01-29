@@ -33,22 +33,22 @@
 |Part III-10    |1/13/2015  |[3장. 군집화: 관련된 게시물 찾기 수](d10.md)  |[박태건](https://www.facebook.com/xarus01)  |
 |               |           |[4장. 주제 모델링](d10.md)   |양영은  |
 |Part III-11    |1/20/2015  |[5장. 분류 I: 형편없는 답변 감지](d11.md)   | [조근영](https://www.facebook.com/re4lfl0w)   |
-|               |           |[정보이론](d11.md)  | 김권현 |
-|Part III-12    |1/27/2015  |6장. 분류 II: 감성 분석   | 송영숙 |
-|               |           |Chapter 18 Self-Organizing Maps  | 조강익 |
-|               |           |7장. 회귀: 추천 | 김주영 |
+|               |           |[정보이론](d11.md)  | [김권현](https://www.facebook.com/kh.kim.351) |
+|Part III-12    |1/27/2015  |[6장. 분류 II: 감성 분석](d12.md)   | [김슬](https://www.facebook.com/lexifdev) |
+|               |           |[7장. 회귀: 추천](d12.md) | [김주영](https://www.facebook.com/juyoung.kim.9619) |
+|               |           |[Chapter 18 Self-Organizing Maps](d12.md)  | [조강익](https://www.facebook.com/kangik) |
 |Part III-13    |2/3/2015  |8장. 회귀: 향상된 추천 | 김수진  |
-|               |          |9장. 분류III: 음악 장르 분류 | 최명규 |
-|               |          |Chapter 21 Fourier Transforms  | 윤영우 |
-|Part III-14    | 2/10/2015 |Chapter 19 Principal Component Analysis  |  |
-|               |           |11장. 차원 수 줄이기| |
-|               |           |(보강H) Microarray analysis using R (ML관점) |  |
+|               |          |9장. 분류III: 음악 장르 분류 | [박홍훈](https://www.facebook.com/profile.php?id=100001858792450) |
+|               |          |Chapter 21 Fourier Transforms  | [윤영우](https://www.facebook.com/bryan.y.yoon) |
+|Part III-14    | 2/7/2015 |12장.(조금 더 큰)빅데이터 | [김덕태](https://www.facebook.com/deogtae)  |
+|               |           |빅데이터 처리 실습 - Kaggle|  [김승욱](https://www.facebook.com/encaion) |
+|Part III-15    | 2/10/2015 |Chapter 19 Principal Component Analysis  | [김가경](https://www.facebook.com/irobii)  |
+|               |           |11장. 차원 수 줄이기|[김가경](https://www.facebook.com/irobii) |
+|               |           |Chapter 20 Species Identificatio|[김가경](https://www.facebook.com/irobii) |
 |#### ###-##    | 2/17/2015 | 설휴강 |  |
-|Part III-15    | 2/24/2015 |(보강F) 딥러닝   | 김무성   |
-|               |           |Chapter 18 Self-Organizing Maps  | 조강익  |
-|Part III-16    |           |(보강I) 네트워크분석  |  |
-|               |           |12장.(조금 더 큰)빅데이터  |     |
-|               |           |(보강J) 빅데이터 처리 실습 - 일정 미정 | 노규형   |
+|Part III-16    | 2/24/2015 |Chapter 22 Correlations  | 임성광   |
+|               |           |딥러닝 | 윤상웅 |
+
 
 ## 목차 : Python for Bioinformatics
 [Python for Bioinformatics](http://www.amazon.com/Python-Bioinformatics-Bartlett-Biomedical-Informatics/dp/0763751863)
@@ -69,7 +69,7 @@
 [15. Text Mining](d09.md)
 [16. Complexity](d07.md)
 [17. Clustering](d08.md)
-18. Self-Organizing Maps
+[18. Self-Organizing Maps](d12.md)
 19. Principals
 20. Species Identification
 21. Fourier Transforms and Correlations
@@ -88,7 +88,7 @@
  [4장. 주제 모델링](d10.md)
  [5장. 분류 I: 형편없는 답변 감지](d11.md)
  6장. 분류 II: 감성 분석
- 7장. 회귀: 추천
+ [7장. 회귀: 추천](d12.md)
  8장. 회귀: 향상된 추천
  9장. 분류III: 음악 장르 분류
  [10장. 컴퓨터 비전: 패턴 인식](d02.md)

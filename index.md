@@ -1,4 +1,4 @@
-![대문](doc/img/d150113.jpg)
+![대문](doc/img/d150127.jpg)
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
@@ -8,11 +8,8 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [18장 Self-organizing map - 150127](doc/part3/d12.md)
-- [5장 형편없는 답변 감지, 정보이론 - 150120](doc/part3/d11.md)
+- [5장. 분류 I: 형편없는 답변 감지, 7장. 회귀: 추천,18장 Self-organizing map - 150127](doc/part3/d12.md)
 - [후기 - 150117](doc/afterSchool.md)
-- [모험4 메타분석, 머신런닝실습 - 150117](doc/advance/advance03.md)
-
 
 ### 링크
 - [facebook ](https://www.facebook.com/notes/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8A%A4%ED%95%80/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-bioinformatics-%EA%B8%B0%EC%B4%88/566279330148620)
