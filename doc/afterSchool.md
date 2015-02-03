@@ -1,6 +1,6 @@
 ![뒷풀이](img/a141230.jpg)
 
-#‎## PART III - 12회차
+#‎# PART III - 12회차
 바이오스핀 1/27 스터디 후기
 바이오스핀‬ ‪#‎바이오파이썬파트3‬ 스터디가 지난주 화요일에 있었습니다.
 기억의 한계로 다른분들이 코멘트 해주셨던 내용을 바탕으로 작성해봅니다^^자세한 콘텐트 내용은 http://biopy.github.io/#!doc/part3/d12.md 를 참고해주세요~^^
@@ -10,14 +10,14 @@
 또한 통계 및 기계학습에 개념을 열심히 공부해 오셨습니다.
 5장의 내용이 워낙 기초적인 개념을 다루고, 후에도 계속 나올 수 있는 개념이기에..MooSung Kim 님이 로지스틱 회귀 개념 등 직접 화이트보드에 판서를 해가며 보충 설명을 해주셨습니다.
 추후 바이오스핀 게시물로 링크도 주셨는데 여기에 다시 담겠습니다^^
-1) Precision과 recall http://en.wikipedia.org/wiki/Precision_and_recall…
+1) Precision과 recall http://en.wikipedia.org/wiki/Precision_and_recall#mediaviewer/File:Precisionrecall.svg
 2) ML이나 의학쪽에서 진단의 성능과 관련된 도구로 많이 쓰이고 있는 ROC 곡선의 시작은 신호탐지이론(레이더 연구)인데 이에 대한 글입니다. http://ko.wikipedia.org/wiki/신호탐지이론
 3) Bias-Variance
-http://www.quora.com/How-would-you-explain-the-bias-varianc…
+http://www.quora.com/How-would-you-explain-the-bias-variance-tradeoff-to-a-five-year-old
 2. (ML-부교재4)7장. 회귀: 추천 - JuYoung Kim
 회귀 모형으로 집값 예측해서 추천하는 이야입니다~엑셀에 직접 계산 과정을 보여주며 데이터의 특성을 살펴보고 전개하는 모습이 진정 데이터분석가의 면모를 보여주셨답니다^^
 회귀의 개념에 나왔던, 릿찌,랏소 개념에 대해 @Young Sook Song 님이 참고 자료를 알려주셨습니다!
-https://cdn.fbsbx.com/…/10738401_833627483360055…/릿찌-랏소.pdf…
+https://cdn.fbsbx.com/hphotos-xap1/v/t59.2708-21/10738401_833627483360055_1208521808_n.pdf/%EB%A6%BF%EC%B0%8C-%EB%9E%8F%EC%86%8C.pdf?oh=4828ebd3e2512c13acf766aeb2e25a64&oe=54D1E4EC&dl=1
 3. (Bio-부교재3)Chapter 18 Self-Organizing Maps - Kang-ik Kevin Cho
 코드의 미완과 콘텐츠의 어려움으로 기피하는 바이오 교재!
 조강익 님은 바이오 인으로서 코드까지 잘 이해하는 분들 중에 한 분인데요,
@@ -25,7 +25,7 @@ https://cdn.fbsbx.com/…/10738401_833627483360055…/릿찌-랏소.pdf…
 여자친구에게 자랑스럽게 보여줬더니 이게 뭐냐는 반응을 보이셨다고 약간 실망하는 모습을 보이셨답니다~^^
 발표중에 맥북과 혼연일체임을 과시하셨는데, 많은 분들이 이에 대해 더 관심을 보이셨답니다..ㅋㅋ
 k-means를 쓰면 되는데 왜 SOM을 사용하느냐의 의문에 발빠른 두 분이 링크로 그 의미를 알려주셨답니다^^
-1) k-means와 SOM의 비교 by 김무성 http://www.researchgate.net/…/What_is_the_difference_betwee…
+1) k-means와 SOM의 비교 by 김무성 http://www.researchgate.net/post/What_is_the_difference_between_the_k_means_and_the_self_oraginzating_map
 2) kmeans가 안 좋을 수 있는 예 by 김슬
 http://varianceexplained.org/r/kmeans-free-lunch/
 4. 감성 분석 Intro- 김슬
@@ -65,7 +65,7 @@ II. 정보 이론 특강
 - 이상입니다. 훌륭한 발표들에 감사드립니다. ㅎㅎ
 JuYoung Kim_150121
 
-## 바이오스핀의 모험 - 3회차 (meta analysis - 명승권, 머신러닝 실습 - 김승욱)
+## 바이오스핀의 모험 - 3회차 (meta analysis, 머신러닝 실습)
 
 바이오 스핀의 모험 후기입니다.
 마루에 도착하니 이미 일찍 오신 분들이 준비에 한창이었습니다. 왠지 뭐 도움될꺼 없나 약간 배회했지만 왠지 거추장스럽게만 하는 거 같아서 그냥 자리에 앉았네요. 준비하신 분들 수고 많으셨습니다.
