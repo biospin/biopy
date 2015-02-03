@@ -8,6 +8,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
+- [Chapter 21, Fourier transform](doc/part3/d13.md)
 - [5장. 분류 I: 형편없는 답변 감지, 7장. 회귀: 추천,18장 Self-organizing map - 150127](doc/part3/d12.md)
 - [후기 - 150121](doc/afterSchool.md)
 
