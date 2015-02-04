@@ -8,7 +8,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [Chapter 21, Fourier transform](doc/part3/d13.md)
+- [Chapter 21, Fourier transform] - 150203(doc/part3/d13.md)
 - [후기 - 150204](doc/afterSchool.md)
 
 ### 링크
