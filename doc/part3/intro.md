@@ -37,9 +37,9 @@
 |Part III-12    |1/27/2015  |[6장. 분류 II: 감성 분석](d12.md)   | [김슬](https://www.facebook.com/lexifdev) |
 |               |           |[7장. 회귀: 추천](d12.md) | [김주영](https://www.facebook.com/juyoung.kim.9619) |
 |               |           |[Chapter 18 Self-Organizing Maps](d12.md)  | [조강익](https://www.facebook.com/kangik) |
-|Part III-13    |2/3/2015  |8장. 회귀: 향상된 추천 | 김수진  |
-|               |          |9장. 분류III: 음악 장르 분류 | [박홍훈](https://www.facebook.com/profile.php?id=100001858792450) |
-|               |          |Chapter 21 Fourier Transforms  | [윤영우](https://www.facebook.com/bryan.y.yoon) |
+|Part III-13    |2/3/2015  |[8장. 회귀: 향상된 추천](d13.md) | [김수진](https://www.facebook.com/soojin.kim.7923)  |
+|               |          |[9장. 분류III: 음악 장르 분류](d13.md) | [박홍훈](https://www.facebook.com/profile.php?id=100001858792450) |
+|               |          |[Chapter 21 Fourier Transforms](d13.md)  | [윤영우](https://www.facebook.com/bryan.y.yoon) |
 |Part III-14    | 2/7/2015 |12장.(조금 더 큰)빅데이터 | [김덕태](https://www.facebook.com/deogtae)  |
 |               |           |빅데이터 처리 실습 - Kaggle|  [김승욱](https://www.facebook.com/encaion) |
 |Part III-15    | 2/10/2015 |Chapter 19 Principal Component Analysis  | [김가경](https://www.facebook.com/irobii)  |
@@ -72,7 +72,7 @@
 [18. Self-Organizing Maps](d12.md)
 19. Principals
 20. Species Identification
-21. Fourier Transforms and Correlations
+[21. Fourier Transforms and Correlations](d13.md)
 22. Correlations
 [23. Numerical Sequence Alignment](d05.md)
 24. Gene Expression Array Files
@@ -89,8 +89,8 @@
  [5장. 분류 I: 형편없는 답변 감지](d11.md)
  6장. 분류 II: 감성 분석
  [7장. 회귀: 추천](d12.md)
- 8장. 회귀: 향상된 추천
- 9장. 분류III: 음악 장르 분류
+ [8장. 회귀: 향상된 추천](d13.md)
+ [9장. 분류III: 음악 장르 분류](d13.md)
  [10장. 컴퓨터 비전: 패턴 인식](d02.md)
  11장. 차원 수 줄이기
  12장. (조금 더 큰) 빅데이터
