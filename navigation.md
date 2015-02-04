@@ -45,7 +45,7 @@
   * [Part III-10 ML-3장, 4장](doc/part3/d10.md)
   * [Part III-11 5장](doc/part3/d11.md)
   * [Part III-12 Chapter 18 ,7~8장](doc/part3/d12.md)
-  * [Part III-13](doc/part3/d13.md)
+  * [Part III-13 Chapter 21, Fourier transform ](doc/part3/d13.md)
   * [Part III-14](doc/part3/d14.md)
   * [Part III-15](doc/part3/d15.md)
   * [Part III-16](doc/part3/d16.md)
