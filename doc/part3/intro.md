@@ -42,8 +42,8 @@
 |               |          |[Chapter 21 Fourier Transforms](d13.md)  | [윤영우](https://www.facebook.com/bryan.y.yoon) |
 |Part III-14    | 2/7/2015 |12장.(조금 더 큰)빅데이터 | [김덕태](https://www.facebook.com/deogtae)  |
 |               |           |빅데이터 처리 실습 - Kaggle|  [김승욱](https://www.facebook.com/encaion) |
-|Part III-15    | 2/10/2015 |Chapter 19 Principal Component Analysis  | [김가경](https://www.facebook.com/irobii)  |
-|               |           |11장. 차원 수 줄이기|[김가경](https://www.facebook.com/irobii) |
+|Part III-15    | 2/10/2015 |11장. 차원 수 줄이기  | [김가경](https://www.facebook.com/irobii)  |
+|               |           |Chapter 19 Principal Component Analysis|[김가경](https://www.facebook.com/irobii) |
 |               |           |Chapter 20 Species Identificatio|[김가경](https://www.facebook.com/irobii) |
 |#### ###-##    | 2/17/2015 | 설휴강 |  |
 |Part III-16    | 2/24/2015 |Chapter 22 Correlations  | 임성광   |
@@ -70,10 +70,10 @@
 [16. Complexity](d07.md)
 [17. Clustering](d08.md)
 [18. Self-Organizing Maps](d12.md)
-19. Principals
-20. Species Identification
+[19. Principal Component Analysis] (d15.md)
+[20. Species Identification] (d15.md)
 [21. Fourier Transforms and Correlations](d13.md)
-22. Correlations
+[22. Correlations] (d16.md)
 [23. Numerical Sequence Alignment](d05.md)
 24. Gene Expression Array Files
 25. Spot Finding and Measurement
@@ -87,11 +87,11 @@
  [3장. 군집화: 관련된 게시물 찾기](d10.md)
  [4장. 주제 모델링](d10.md)
  [5장. 분류 I: 형편없는 답변 감지](d11.md)
- 6장. 분류 II: 감성 분석
+ [6장. 분류 II: 감성 분석](d13.md)
  [7장. 회귀: 추천](d12.md)
  [8장. 회귀: 향상된 추천](d13.md)
  [9장. 분류III: 음악 장르 분류](d13.md)
  [10장. 컴퓨터 비전: 패턴 인식](d02.md)
- 11장. 차원 수 줄이기
- 12장. (조금 더 큰) 빅데이터
+ [11장. 차원 수 줄이기](d15.md)
+ [12장. (조금 더 큰) 빅데이터](d14.md)
  13장. 기계 학습을 더 배울 수 있는 자료
