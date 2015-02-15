@@ -1,4 +1,4 @@
-![대문](doc/img/d150203.jpg)
+![대문](doc/img/d150210.jpg)
 
 [gimmick:FacebookLike ( layout: 'standard', showfaces: false) ](http://biopy.github.io)
 
@@ -8,7 +8,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [Chapter 21, Fourier transform - 150203](doc/part3/d13.md)
+- [Chapter 19~20, ML-11장 - 150210](doc/part3/d15.md)
 - [후기 - 150204](doc/afterSchool.md)
 
 ### 링크

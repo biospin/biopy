@@ -40,11 +40,11 @@
 |Part III-13    |2/3/2015  |[8장. 회귀: 향상된 추천](d13.md) | [김수진](https://www.facebook.com/soojin.kim.7923)  |
 |               |          |[9장. 분류III: 음악 장르 분류](d13.md) | [박홍훈](https://www.facebook.com/profile.php?id=100001858792450) |
 |               |          |[Chapter 21 Fourier Transforms](d13.md)  | [윤영우](https://www.facebook.com/bryan.y.yoon) |
-|Part III-14    | 2/7/2015 |12장.(조금 더 큰)빅데이터 | [김덕태](https://www.facebook.com/deogtae)  |
-|               |           |빅데이터 처리 실습 - Kaggle|  [김승욱](https://www.facebook.com/encaion) |
-|Part III-15    | 2/10/2015 |11장. 차원 수 줄이기  | [김가경](https://www.facebook.com/irobii)  |
-|               |           |Chapter 19 Principal Component Analysis|[김가경](https://www.facebook.com/irobii) |
-|               |           |Chapter 20 Species Identificatio|[김가경](https://www.facebook.com/irobii) |
+|Part III-14    | 2/7/2015 |[12장.조금 더 큰빅데이터](d14.md) | [김덕태](https://www.facebook.com/deogtae)  |
+|               |           |[빅데이터 처리 실습 - Kaggle](d14.md)|  [김승욱](https://www.facebook.com/encaion) |
+|Part III-15    | 2/10/2015 |[11장. 차원 수 줄이기](d15.md)  | [김가경](https://www.facebook.com/irobii)  |
+|               |           |[Chapter 19 Principal Component Analysis](d15.md)|[김가경](https://www.facebook.com/irobii) |
+|               |           |[Chapter 20 Species Identificatio](d15.md)|[김가경](https://www.facebook.com/irobii) |
 |#### ###-##    | 2/17/2015 | 설휴강 |  |
 |Part III-16    | 2/24/2015 |Chapter 22 Correlations  | 임성광   |
 |               |           |딥러닝 | 윤상웅 |
