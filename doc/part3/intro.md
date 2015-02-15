@@ -45,7 +45,7 @@
 |Part III-15    | 2/10/2015 |[11장. 차원 수 줄이기](d15.md)  | [김가경](https://www.facebook.com/irobii)  |
 |               |           |[Chapter 19 Principal Component Analysis](d15.md)|[김가경](https://www.facebook.com/irobii) |
 |               |           |[Chapter 20 Species Identificatio](d15.md)|[김가경](https://www.facebook.com/irobii) |
-|#### ###-##    | 2/17/2015 | 설휴강 |  |
+|               | 2/17/2015 | 설휴강 |  |
 |Part III-16    | 2/24/2015 |Chapter 22 Correlations  | 임성광   |
 |               |           |딥러닝 | 윤상웅 |
 
