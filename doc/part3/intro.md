@@ -70,10 +70,10 @@
 [16. Complexity](d07.md)
 [17. Clustering](d08.md)
 [18. Self-Organizing Maps](d12.md)
-[19. Principal Component Analysis] (d15.md)
-[20. Species Identification] (d15.md)
+[19. Principal Component Analysis](d15.md)
+[20. Species Identification](d15.md)
 [21. Fourier Transforms and Correlations](d13.md)
-[22. Correlations] (d16.md)
+[22. Correlations](d16.md)
 [23. Numerical Sequence Alignment](d05.md)
 24. Gene Expression Array Files
 25. Spot Finding and Measurement
