@@ -18,7 +18,7 @@
 |              |            |[Chapter 9 Tandem Repeat](d03.md) | [강양제](https://www.facebook.com/yangjae.kang.1)             |
 |              |            |[2장. 실제 예제를 이용한 분류법 학습](d03.md) | [정우철](https://www.facebook.com/juczest)        |
 |Part III-4    |12/02/2014  |[Chapter 11 Genetic Algorithms](d04.md) |[이성호](https://www.facebook.com/jaruvet)               |
-|              |            |[(보강B) 선형대수](d04.md) | [정동진](https://www.facebook.com/profile.php) |
+|              |            |[(보강B) 선형대수](d04.md) | [정동진](https://www.facebook.com/profile.php?id=100001321343782) |
 |Part III-5    |12/09/2014  |[Chapter 23 Numerical Sequence Alignment](d05.md) | [박성진](https://www.facebook.com/oscarsjpark)        |
 |              |            |[(보강C) 최적화](d05.md) |[심상진](https://www.facebook.com/sangjin.sim.7) |
 |Part III-6    |12/16/2014  |[Chapter 10 Hidden Markov Model](d06.md)| [김승욱](https://www.facebook.com/encaion)              |
