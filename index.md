@@ -1,4 +1,4 @@
-![대문](doc/img/d150210.jpg)
+![대문](doc/img/d150224.jpg)
 
 ### 파이썬을 이용한 Bioinformatics 기초 part 3
 - 2014년 11월 11일 - 2015년 2월 24일
@@ -6,7 +6,7 @@
 - 장소 : 토즈 타워점
 
 ### 최신글
-- [Chapter 19~20, ML-11장 - 150210](doc/part3/d15.md)
+- [Chapter 22 Correlations, 딥러닝- 150224](doc/part3/d16.md)
 - [후기 - 150223](doc/afterSchool.md)
 
 ### 링크

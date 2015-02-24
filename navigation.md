@@ -67,6 +67,7 @@
   * [revisition mRna tailing](doc/part3/d08.md)
   * [메타분석 & Kaggle실습](doc/advance/advance03.md)
   * [정보이론](doc/part3/d11.md)
+  * [딥러닝](doc/part3/d16.md)
 
 [스터디후기](doc/afterSchool.md)
 

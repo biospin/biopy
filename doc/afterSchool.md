@@ -1,4 +1,4 @@
-![뒷풀이](/doc/img/a141230.jpg)
+![뒷풀이](/doc/img/a150224.jpg)
 
 
 ## PART III - 15회차
