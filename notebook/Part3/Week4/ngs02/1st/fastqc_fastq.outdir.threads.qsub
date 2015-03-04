@@ -1,0 +1,14 @@
+#!/bin/sh
+#$ -N fastqccccc
+#$ -S /bin/sh
+##$ -o $JOB_ID.$JOB_NAME.o
+##$ -e $JOB_ID.$JOB_NAME.e
+##$ -q all.q    ## for cloud.biopython.net
+##$ -pe make 1
+#$ -cwd
+
+FASTQ=$1
+OUTDIR=$2
+THREADS=$3
+
+fastqc ${FASTQ} -o ${OUTDIR} -t ${THREADS} -q 
