@@ -72,4 +72,4 @@
 [스터디후기](doc/afterSchool.md)
 
 [gimmick:theme (inverse: false)](cerulean)
-[gimmick:ForkMeOnGitHub](https://github.com/biopy/biopy.github.io)
+[gimmick:ForkMeOnGitHub](https://github.com/biospin/biopy/tree/gh-pages)
